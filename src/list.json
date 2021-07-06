@@ -1,0 +1,146 @@
+[
+  {
+    "title": "Mobile Suit Gundam: The Origin",
+    "nick": "The Origin",
+    "year": 68,
+    "img": "https://static.wikia.nocookie.net/gunplabuilders/images/5/59/MSG-The-Origin-Logo.png",
+    "type": "Series/OVA",
+    "main": true
+  },
+  {
+    "title": "Mobile Suit Gundam",
+    "nick": "Gundam",
+    "year": 79,
+    "img": "https://static.wikia.nocookie.net/gundam/images/8/88/MSG_logo_b.png",
+    "type": "Series/OVA",
+    "main": true
+  },
+  {
+    "title": "Mobile Suit Gundam Thunderbolt",
+    "nick": "Thunderbolt",
+    "year": 79,
+    "img": "https://static.wikia.nocookie.net/gundam/images/4/4e/Logo_Thunderbolt.png",
+    "type": "Series/OVA",
+    "main": false
+  },
+  {
+    "title": "Mobile Suit Gundam: The 08th MS Team",
+    "nick": "08th MS Team",
+    "year": 79,
+    "img": "https://static.wikia.nocookie.net/gundam/images/4/4d/Logo_Mobile_Suit_Gundam_The_08th_MS_Team.jpg",
+    "type": "Series/OVA",
+    "main": false
+  },
+  {
+    "title": "Mobile Suit Gundam MS IGLOO: Apocalypse 0079",
+    "nick": "MS IGLOO",
+    "year": 79,
+    "img": "https://static.wikia.nocookie.net/gundam/images/1/15/Logo_MS_IGLOO_Apocalypse_0079.png",
+    "type": "Series/OVA",
+    "main": false
+  },
+  {
+    "title": "Mobile Suit Gundam MS IGLOO 2: The Gravity Front",
+    "nick": "MS IGLOO 2",
+    "year": 79,
+    "img": "https://static.wikia.nocookie.net/gundam/images/1/18/Logo_MS_IGLOO_2.png",
+    "type": "Series/OVA",
+    "main": false
+  },
+  {
+    "title": "Mobile Suit Gundam 0080: War in the Pocket",
+    "nick": "War in the Pocket",
+    "year": 80,
+    "img": "https://static.wikia.nocookie.net/gundam/images/a/a5/Gundam_0080_logo.png",
+    "type": "Series/OVA",
+    "main": true
+  },
+  {
+    "title": "Mobile Suit Gundam 0083: Stardust Memory",
+    "nick": "Stardust Memory",
+    "year": 83,
+    "img": "https://static.wikia.nocookie.net/gundam/images/e/e0/Logo_Mobile_Suit_Gundam_0083_Stardust_Memory.jpg",
+    "type": "Series/OVA",
+    "main": true
+  },
+  {
+    "title": "Mobile Suit Gundam 0083: The Afterglow of Zeon",
+    "nick": "Afterglow of Zeon",
+    "year": 83,
+    "img": "https://static.wikia.nocookie.net/gundam/images/7/79/0083_AZ_Logo.png",
+    "type": "Movie",
+    "main": false
+  },
+  {
+    "title": "Mobile Suit Zeta Gundam",
+    "nick": "Zeta Gundam",
+    "year": 87,
+    "img": "https://static.wikia.nocookie.net/gundam/images/f/f9/Logo_Mobile_Suit_Zeta_Gundam.jpg",
+    "type": "Series/OVA",
+    "main": true
+  },
+  {
+    "title": "Mobile Suit Gundam ZZ",
+    "nick": "Gundam ZZ",
+    "year": 88,
+    "img": "https://static.wikia.nocookie.net/gundam/images/3/31/Logo_Mobile_Suit_Gundam_ZZ.jpg",
+    "type": "Series/OVA",
+    "main": true
+  },
+  {
+    "title": "Mobile Suit Gundam: Char's Counterattack",
+    "nick": "Char's Counterattack",
+    "year": 93,
+    "img": "https://static.wikia.nocookie.net/gundam/images/6/6f/Logo_Mobile_Suit_Gundam_Char%27s_Counterattack.png",
+    "type": "Movie",
+    "main": true
+  },
+  {
+    "title": "Mobile Suit Gundam Unicorn",
+    "nick": "Gundam Unicorn",
+    "year": 96,
+    "img": "https://static.wikia.nocookie.net/gundam/images/8/8d/Logo_Mobile_Suit_Gundam_Unicorn.png",
+    "type": "Series/OVA",
+    "main": true
+  },
+  {
+    "title": "Mobile Suit Gundam Twilight Axis",
+    "nick": "Twilight Axis",
+    "year": 96,
+    "img": "https://static.wikia.nocookie.net/gundam/images/1/1b/Logo_Mobile_Suit_Gundam_Twilight_Axis.png",
+    "type": "Series/OVA",
+    "main": true
+  },
+  {
+    "title": "Mobile Suit Gundam Narrative",
+    "nick": "NT",
+    "year": 97,
+    "img": "https://static.wikia.nocookie.net/gundam/images/b/bd/Narrative_logo.png",
+    "type": "Movie",
+    "main": true
+  },
+  {
+    "title": "Mobile Suit Gundam: Hathaway's Flash",
+    "nick": "Hathaway's Flash",
+    "year": 105,
+    "img": "https://static.wikia.nocookie.net/gundam/images/5/59/Hathaway_novel_logo.png",
+    "type": "Movie",
+    "main": true
+  },
+  {
+    "title": "Mobile Suit Gundam F91",
+    "nick": "F91",
+    "year": 123,
+    "img": "https://static.wikia.nocookie.net/gundam/images/0/0d/Logo_Gundam_f91.png",
+    "type": "Movie",
+    "main": true
+  },
+  {
+    "title": "Mobile Suit Victory Gundam",
+    "nick": "Victory Gundam",
+    "year": 153,
+    "img": "https://static.wikia.nocookie.net/gundam/images/b/b0/Logo_Mobile_Suit_Victory_Gundam.jpg",
+    "type": "Series/OVA",
+    "main": true
+  }
+]

@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import Container from './Container';
 
 export default class App extends Component {
   render() {
@@ -12,9 +13,7 @@ export default class App extends Component {
           alignItems: 'center',
         }}
       >
-        <h1>
-          Hello World!
-        </h1>
+        <Container />
       </div>
     );
   }

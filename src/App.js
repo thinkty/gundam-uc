@@ -20,7 +20,7 @@ export default class App extends Component {
           justifyContent: 'center',
           alignItems: 'center',
           backgroundColor: '#000',
-          overflow: 'scroll',
+          overflow: 'auto',
         }}
       >
         <div>

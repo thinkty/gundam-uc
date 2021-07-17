@@ -1,6 +1,13 @@
 import React, { Component } from 'react';
 import Title from './Title';
-import Container from './Container';
+import Timeline from './Timeline';
+import list from './config/list.json';
+
+const style = {
+  gap: {
+    height: 100,
+  },
+};
 
 export default class App extends Component {
   render() {
@@ -13,10 +20,14 @@ export default class App extends Component {
           justifyContent: 'center',
           alignItems: 'center',
           backgroundColor: '#000',
+          overflow: 'scroll',
         }}
       >
-        <Title />
-        <Container />
+        <div>
+          <Title />
+          <div style={style.gap} />
+          <Timeline list={list} />
+        </div>
       </div>
     );
   }

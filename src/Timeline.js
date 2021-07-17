@@ -12,21 +12,35 @@ const style = {
 };
 
 export default function Timeline({ list }) {
-  /*
-  // TODO: 
   // This variable is used to decide whether the current year is identical to
   // the year in the item before
   let lastYear = 0;
-  */
+
   return (
     <div style={style.flexContainer}>
       {
         list.map((item) => {
-          // const { year, main } = item;
+          const { year } = item;
+
+          // Hide year if the current year is identical to the year before
+          if (year === lastYear) {
+            return (
+              <Event
+                key={item.title}
+                item={item}
+                isSameYear={true}
+              />
+            );
+          }
+
+          // Update last year
+          lastYear = year;
           return (
             <Event
               key={item.title}
               item={item}
+              isSameYear={false}
+
             />
           );
         })

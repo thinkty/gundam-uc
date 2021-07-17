@@ -27,14 +27,14 @@ const style = {
   },
 };
 
-export default function Event({ item }) {
-  const { year } = item;
+export default function Event({ item, isSameYear }) {
+  const { year, main } = item;
   const [ selected, setSelection ] = useState(false);
 
   return (
     <div style={style.flexContainer}>
       <div style={style.yearFlexContainer}>
-        <EventYear year={year} />
+        <EventYear year={year} isSameYear={isSameYear} />
       </div>
       <div style={style.nodeEdgeFlexContainer}>
         <EventNode

@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import Title from './Title';
 import Container from './Container';
 
 export default class App extends Component {
@@ -11,8 +12,10 @@ export default class App extends Component {
           display: 'grid',
           justifyContent: 'center',
           alignItems: 'center',
+          backgroundColor: '#000',
         }}
       >
+        <Title />
         <Container />
       </div>
     );

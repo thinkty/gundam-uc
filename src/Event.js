@@ -40,6 +40,7 @@ export default function Event({ item, isSameYear }) {
         <EventNode
           selected={selected}
           setSelection={setSelection}
+          isMain={main}
         />
         <EventEdge />
       </div>

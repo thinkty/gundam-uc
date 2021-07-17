@@ -4,7 +4,18 @@ import Timeline from './Timeline';
 import list from './config/list.json';
 
 const style = {
+  rootContainer: {
+    width: '100vw',
+    height: '100vh',
+    display: 'flex',
+    flexDirection: 'column',
+    justifyContent: 'flex-start',
+    alignItems: 'center',
+    backgroundColor: '#000',
+    overflow: 'auto',
+  },
   gap: {
+    flexShrink: 0,
     height: 100,
   },
 };
@@ -12,22 +23,10 @@ const style = {
 export default class App extends Component {
   render() {
     return (
-      <div
-        style={{
-          width: '100vw',
-          height: '100vh',
-          display: 'grid',
-          justifyContent: 'center',
-          alignItems: 'center',
-          backgroundColor: '#000',
-          overflow: 'auto',
-        }}
-      >
-        <div>
-          <Title />
-          <div style={style.gap} />
-          <Timeline list={list} />
-        </div>
+      <div style={style.rootContainer}>
+        <Title />
+        <div style={style.gap} />
+        <Timeline list={list} />
       </div>
     );
   }

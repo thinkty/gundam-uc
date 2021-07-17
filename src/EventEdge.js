@@ -2,8 +2,6 @@ import React from 'react';
 
 const style = {
   flexContainer: {
-    height: '100%',
-    minHeight: 100,
     display: 'flex',
     flexDirection: 'column',
     alignItems: 'center',
@@ -16,7 +14,7 @@ const style = {
   },
 };
 
-export default function TimelineEdge() {
+export default function EventEdge() {
   return (
     <div style={style.flexContainer}>
       <hr style={style.divider} />

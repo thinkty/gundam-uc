@@ -1,6 +1,5 @@
 import React from 'react';
 import Event from './Event';
-import TimelineFooter from './TimelineFooter';
 
 const style = {
   flexContainer: {
@@ -35,7 +34,6 @@ export default function Timeline({ list }) {
           return eventComponent;
         })
       }
-      <TimelineFooter />
     </div>
   );
 }

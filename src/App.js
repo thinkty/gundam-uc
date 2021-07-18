@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import Title from './Title';
 import Timeline from './Timeline';
 import list from './config/list.json';
+import TimelineFooter from './TimelineFooter';
 
 const style = {
   rootContainer: {
@@ -22,6 +23,7 @@ export default class App extends Component {
       <div style={style.rootContainer}>
         <Title />
         <Timeline list={list} />
+        <TimelineFooter />
       </div>
     );
   }

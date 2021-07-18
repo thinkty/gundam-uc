@@ -20,29 +20,18 @@ export default function Timeline({ list }) {
     <div style={style.flexContainer}>
       {
         list.map((item) => {
-          const { year } = item;
+          const { year, title } = item;
 
           // Hide year if the current year is identical to the year before
-          if (year === lastYear) {
-            return (
-              <Event
-                key={item.title}
-                item={item}
-                isSameYear={true}
-              />
-            );
-          }
-
-          // Update last year
-          lastYear = year;
-          return (
+          const eventComponent = (
             <Event
-              key={item.title}
+              key={title}
               item={item}
-              isSameYear={false}
-
+              isSameYear={year === lastYear}
             />
           );
+          lastYear = year;
+          return eventComponent;
         })
       }
     </div>

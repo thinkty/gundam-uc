@@ -5,6 +5,7 @@ const style = {
     display: 'flex',
     flexDirection: 'column',
     alignItems: 'center',
+    margin: 100,
   },
   primaryText: {
     fontFamily: 'sans-serif',

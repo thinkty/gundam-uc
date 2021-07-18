@@ -14,10 +14,6 @@ const style = {
     backgroundColor: '#000',
     overflow: 'auto',
   },
-  gap: {
-    flexShrink: 0,
-    height: 100,
-  },
 };
 
 export default class App extends Component {
@@ -25,7 +21,6 @@ export default class App extends Component {
     return (
       <div style={style.rootContainer}>
         <Title />
-        <div style={style.gap} />
         <Timeline list={list} />
       </div>
     );

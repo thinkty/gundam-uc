@@ -2,6 +2,7 @@ import React from 'react';
 
 const style = {
   flexContainer: {
+    flex: 1,
     display: 'flex',
     flexDirection: 'column',
     alignItems: 'center',

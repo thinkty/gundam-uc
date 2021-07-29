@@ -41,6 +41,8 @@ const style = {
 };
 
 export default function Title() {
+  const isMobile = window.innerWidth < 500;
+
   return (
     <div style={style.flexContainer}>
       <div style={style.primaryText}>
@@ -50,7 +52,9 @@ export default function Title() {
         •
       </div>
       <div style={style.secondaryText}>
-        Universal Century
+        {
+          isMobile ? 'UC' : 'Universal Century'
+        }
       </div>
     </div>
   );

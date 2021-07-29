@@ -2,11 +2,13 @@ import React from 'react';
 
 const style = {
   baseContainer: {
-    height: 36,
-    display: 'flex',
-    flexDirection: 'column',
-    justifyContent: 'center',
-    alignItems: 'end',
+    display: 'inline-block',
+    borderWidth: 1,
+    borderRadius: 5,
+    borderStyle: 'solid',
+    borderColor: '#ffffff',
+    backgroundColor: '#000000',
+    padding: 10,
   },
   selected: {
     transition: 'opacity 0.2s',
@@ -16,19 +18,16 @@ const style = {
     transition: 'opacity 0.2s',
     opacity: 1,
   },
-  divYearText: {
+  divTitleText: {
     fontFamily: 'sans-serif',
     fontSize: 18,
     fontStyle: 'normal',
     fontWeight: 'bold',
-    color: '#aaaaaa',
-  },
-  displayNone: {
-    display: 'none',
+    color: '#ffffff',
   },
 };
 
-export default function EventYear({ year, isSameYear, selected }) {
+export default function EventNickname({ nick, selected }) {
   const containerStyle = {
     ...style.baseContainer,
     ...(selected ? style.selected : style.unselected),
@@ -36,9 +35,9 @@ export default function EventYear({ year, isSameYear, selected }) {
 
   return (
     <div style={containerStyle}>
-      <div style={isSameYear ? style.displayNone : style.divYearText}>
+      <div style={style.divTitleText}>
         {
-          "U.C." + (year + "").padStart(4, "0")
+          nick
         }
       </div>
     </div>

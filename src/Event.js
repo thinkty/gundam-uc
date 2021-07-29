@@ -2,6 +2,7 @@ import React, { useState } from 'react';
 import EventYear from './EventYear';
 import EventNode from './EventNode';
 import EventEdge from './EventEdge';
+import EventNickname from './EventNickname';
 import EventCard from './EventCard';
 
 const style = {
@@ -28,13 +29,17 @@ const style = {
 };
 
 export default function Event({ item, isSameYear }) {
-  const { year, main } = item;
+  const { year, main, nick } = item;
   const [ selected, setSelection ] = useState(false);
 
   return (
     <div style={style.flexContainer}>
       <div style={style.yearFlexContainer}>
-        <EventYear year={year} isSameYear={isSameYear} />
+        <EventYear
+          year={year}
+          isSameYear={isSameYear}
+          selected={selected}
+        />
       </div>
       <div style={style.nodeEdgeFlexContainer}>
         <EventNode
@@ -42,10 +47,14 @@ export default function Event({ item, isSameYear }) {
           setSelection={setSelection}
           isMain={main}
         />
+        {/* <EventCard item={item} selected={selected} /> */}
         <EventEdge />
       </div>
       <div style={style.cardFlexContainer}>
-        <EventCard item={item} selected={selected} />
+        <EventNickname
+          nick={nick}
+          selected={selected}
+        />
       </div>
     </div>
   );

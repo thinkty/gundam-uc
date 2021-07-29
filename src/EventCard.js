@@ -39,26 +39,17 @@ export default function EventCard({ item, selected }) {
   const { title, nick, year, img, type, main } = item;
 
   return (
-    !selected
-    ?
-      <div style={style.baseContainer}>
-        <div style={style.divTitleText}>
-          {
-            nick
-          }
-        </div>
+    selected &&
+    <div style={style.selectedFlexContainer}>
+      <div style={style.divTitleText}>
+        {
+          title
+        }
       </div>
-    :
-      <div style={style.selectedFlexContainer}>
-        <div style={style.divTitleText}>
-          {
-            title
-          }
-        </div>
-        <hr/>
-        <div style={style.logoContainer}>
-          <img src={img}/>
-        </div>
+      <hr/>
+      <div style={style.logoContainer}>
+        <img src={img}/>
       </div>
+    </div>
   );
 }

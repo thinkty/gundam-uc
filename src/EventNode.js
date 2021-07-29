@@ -40,10 +40,7 @@ export default function EventNode({ selected, setSelection, isMain }) {
 
   // Set the color of the node by the current focus & selection status
   let currentColor = focused ? style.focusedColor : style.baseColor;
-
-  if (selected) {
-    currentColor = style.selectedColor;
-  }
+  currentColor = selected ? style.selectedColor : currentColor;
 
   // Change the style of the node by whether the item is a main storyline or not
   return (

@@ -6,25 +6,38 @@ import EventNickname from './EventNickname';
 import EventCard from './EventCard';
 
 const style = {
-  flexContainer: {
+  baseContainer: {
     display: 'flex',
-    flexDirection: 'row',
+    flexDirection: 'column',
+    alignItems: 'center',
     width: '100%',
   },
-  yearFlexContainer: {
+  eventHeader: {
+    display: 'flex',
+    flexDirection: 'row',
+    justifyContent: 'center',
+    width: '100%',
+    height: 36,
+    paddingTop: 10,
+    paddingBottom: 10,
+  },
+  eventYear: {
     flex: 1,
     paddingRight: 10,
   },
-  nodeEdgeFlexContainer: {
+  eventNode: {
+    flex: 0,
+  },
+  eventNickname: {
+    flex: 1,
+    paddingLeft: 10,
+  },
+  eventContent: {
     flex: 0,
     display: 'flex',
     flexDirection: 'column',
-    height: '100%',
-  },
-  cardFlexContainer: {
-    flex: 1,
-    paddingLeft: 10,
-    paddingBottom: 10,
+    alignItems: 'center',
+    width: '100%',
   },
 };
 
@@ -33,28 +46,32 @@ export default function Event({ item, isSameYear }) {
   const [ selected, setSelection ] = useState(false);
 
   return (
-    <div style={style.flexContainer}>
-      <div style={style.yearFlexContainer}>
-        <EventYear
-          year={year}
-          isSameYear={isSameYear}
-          selected={selected}
-        />
+    <div style={style.baseContainer}>
+      <div style={style.eventHeader}>
+        <div style={style.eventYear}>
+          <EventYear
+            year={year}
+            isSameYear={isSameYear}
+            selected={selected}
+          />
+        </div>
+        <div style={style.eventNode}>
+          <EventNode
+            selected={selected}
+            setSelection={setSelection}
+            isMain={main}
+          />
+        </div>
+        <div style={style.eventNickname}>
+          <EventNickname
+            nick={nick}
+            selected={selected}
+          />
+        </div>
       </div>
-      <div style={style.nodeEdgeFlexContainer}>
-        <EventNode
-          selected={selected}
-          setSelection={setSelection}
-          isMain={main}
-        />
-        {/* <EventCard item={item} selected={selected} /> */}
+      <div style={style.eventContent}>
+        <EventCard item={item} selected={selected} />
         <EventEdge />
-      </div>
-      <div style={style.cardFlexContainer}>
-        <EventNickname
-          nick={nick}
-          selected={selected}
-        />
       </div>
     </div>
   );

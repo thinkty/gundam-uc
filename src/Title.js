@@ -2,10 +2,18 @@ import React from 'react';
 
 const style = {
   flexContainer: {
+    position: 'sticky',
+    top: 0,
+    width: '90%',
     display: 'flex',
-    flexDirection: 'column',
+    flexDirection: 'row',
+    justifyContent: 'center',
     alignItems: 'center',
-    margin: 100,
+    backgroundImage: 'linear-gradient(rgba(0,0,0,1) 50%, rgba(0,0,0,0))',
+    marginTop: 50,
+    marginBottom: 50,
+    paddingTop: 20,
+    paddingBottom: 60,
   },
   primaryText: {
     fontFamily: 'sans-serif',
@@ -13,21 +21,22 @@ const style = {
     fontStyle: 'normal',
     fontWeight: 'bold',
     letterSpacing: 10,
-    marginRight: -10,
     color: '#ffffff',
   },
   divider: {
-    width: '100%',
-    borderTopStyle: 'solid',
-    borderTopWidth: 1,
-    borderTopColor: '#ffffff',
+    fontFamily: 'sans-serif',
+    fontSize: 24,
+    fontStyle: 'normal',
+    fontWeight: 'bold',
+    color: '#aaaaaa',
   },
   secondaryText: {
     fontFamily: 'sans-serif',
     fontSize: 24,
     fontStyle: 'normal',
     fontWeight: 'bold',
-    color: '#aaaaaa'
+    color: '#aaaaaa',
+    marginLeft: 10,
   },
 };
 
@@ -37,7 +46,9 @@ export default function Title() {
       <div style={style.primaryText}>
         GUNDAM
       </div>
-      <hr style={style.divider}/>
+      <div style={style.divider}>
+        •
+      </div>
       <div style={style.secondaryText}>
         Universal Century
       </div>

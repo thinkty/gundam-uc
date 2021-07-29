@@ -7,14 +7,7 @@ const style = {
     flexDirection: 'column',
     justifyContent: 'center',
     alignItems: 'end',
-  },
-  selected: {
-    transition: 'opacity 0.2s',
-    opacity: 0,
-  },
-  unselected: {
-    transition: 'opacity 0.2s',
-    opacity: 1,
+    transition: 'opacity 0.5s',
   },
   divYearText: {
     fontFamily: 'sans-serif',
@@ -31,7 +24,7 @@ const style = {
 export default function EventYear({ year, isSameYear, selected }) {
   const containerStyle = {
     ...style.baseContainer,
-    ...(selected ? style.selected : style.unselected),
+    opacity: selected ? 0 : 1,
   };
 
   return (

@@ -9,14 +9,7 @@ const style = {
     borderColor: '#ffffff',
     backgroundColor: '#000000',
     padding: 10,
-  },
-  selected: {
-    transition: 'opacity 0.2s',
-    opacity: 0,
-  },
-  unselected: {
-    transition: 'opacity 0.2s',
-    opacity: 1,
+    transition: 'opacity 0.5s',
   },
   divTitleText: {
     fontFamily: 'sans-serif',
@@ -30,7 +23,7 @@ const style = {
 export default function EventNickname({ nick, selected }) {
   const containerStyle = {
     ...style.baseContainer,
-    ...(selected ? style.selected : style.unselected),
+    opacity: selected ? 0 : 1,
   };
 
   return (

@@ -1,16 +1,7 @@
-import React from 'react';
+import React, { useState, useEffect, useRef } from 'react';
 
 const style = {
   baseContainer: {
-    display: 'inline-block',
-    borderWidth: 1,
-    borderRadius: 5,
-    borderStyle: 'solid',
-    borderColor: '#ffffff',
-    backgroundColor: '#000000',
-    padding: 10,
-  },
-  selectedFlexContainer: {
     width: '100%',
     height: '100%',
     boxSizing: 'border-box',
@@ -20,6 +11,8 @@ const style = {
     borderColor: '#ffffff',
     backgroundColor: '#000000',
     padding: 10,
+    opacity: 0,
+    transition: 'opacity 1s',
   },
   divTitleText: {
     fontFamily: 'sans-serif',
@@ -35,12 +28,28 @@ const style = {
   },
 };
 
-export default function EventCard({ item, selected }) {
+export default function EventCard({ item }) {
   const { title, nick, year, img, type, main } = item;
+  const [show, setShow] = useState(false);
+  const containerStyle = {
+    ...style.baseContainer,
+    opacity: show ? 1 : 0,
+  };
+
+  // Similar to componentDidMount to animate Fade In of the component
+  const mounted = useRef();
+  useEffect(() => {
+    if (!mounted.current) {
+      // Simulating componentDidMount to animate FadeIn
+      setShow(true);
+      mounted.current = true;
+    } else {
+      // TODO: Simulating componentDidUpdate to delay unmount to animate FadeOut
+    }
+  });
 
   return (
-    selected &&
-    <div style={style.selectedFlexContainer}>
+    <div style={containerStyle}>
       <div style={style.divTitleText}>
         {
           title

@@ -70,7 +70,7 @@ export default function Event({ item, isSameYear }) {
         </div>
       </div>
       <div style={style.eventContent}>
-        <EventCard item={item} selected={selected} />
+        { selected && <EventCard item={item} selected={selected} /> }
         <EventEdge />
       </div>
     </div>

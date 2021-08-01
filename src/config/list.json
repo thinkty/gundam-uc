@@ -4,7 +4,87 @@
     "nick": "The Origin",
     "year": 68,
     "img": "https://static.wikia.nocookie.net/gunplabuilders/images/5/59/MSG-The-Origin-Logo.png",
+    "synop": "Mobile Suit Gundam: The Origin adapts Volumes 9-12 of the original manga, chronicling the events leading up to the main story, including the transformation of the Autonomous Republic of Munzo into the Principality of Zeon following the death of Zeon Zum Deikun, Casval Rem Deikun and Artesia Som Deikun's lives after escaping from Side 3, the development of the first mobile suits, the backstory of the White Base crew, and the first battles of the One Year War. ",
+    "chars": [
+      {
+        "name": "Casval Rem Deikun",
+        "link": "https://gundam.fandom.com/wiki/Casval_Rem_Deikun_(Origin)"
+      },
+      {
+        "name": "Artesia Som Deikun",
+        "link": "https://gundam.fandom.com/wiki/Sayla_Mass_(Origin)"
+      },
+      {
+        "name": "Garma Zabi",
+        "link": "https://gundam.fandom.com/wiki/Garma_Zabi_(Origin)"
+      }
+    ],
+    "mss": [
+      {
+        "name": "RTX-65 Guntank Early Type",
+        "link": "https://gundam.fandom.com/wiki/RTX-65_Guntank_Early_Type"
+      },
+      {
+        "name": "RCX-76 Guncannon First Type Rollout Unit 1",
+        "link": "https://gundam.fandom.com/wiki/RCX-76_Guncannon_First_Type_Rollout_Unit_1"
+      },
+      {
+        "name": "RX-78-02 Gundam",
+        "link": "https://gundam.fandom.com/wiki/RX-78-02_Gundam"
+      },
+      {
+        "name": "MS-04 Bugu",
+        "link": "https://gundam.fandom.com/wiki/MS-04_Bugu"
+      },
+      {
+        "name": "MS-05 Zaku I",
+        "link": "https://gundam.fandom.com/wiki/MS-05_Zaku_I/Origin"
+      },
+      {
+        "name": "MS-06C Zaku II",
+        "link": "https://gundam.fandom.com/wiki/MS-06C_Zaku_II"
+      }
+    ],
+    "wiki": "https://gundam.fandom.com/wiki/Mobile_Suit_Gundam:_The_Origin",
     "type": "Series/OVA",
+    "eps": [
+      {
+        "name": "Blue-Eyed Casval",
+        "link": "https://gundam.fandom.com/wiki/Blue-Eyed_Casval",
+        "date": 1425049200000
+      },
+      {
+        "name": "Artesia's Sorrow",
+        "link": "https://gundam.fandom.com/wiki/Artesia%27s_Sorrow",
+        "date": 1445007600000
+      },
+      {
+        "name": "Dawn of Rebellion",
+        "link": "https://gundam.fandom.com/wiki/Dawn_of_Rebellion",
+        "date": 1463756400000
+      },
+      {
+        "name": "Eve of Destiny",
+        "link": "https://gundam.fandom.com/wiki/Eve_of_Destiny",
+        "date": 1479481200000
+      },
+      {
+        "name": "Clash at Loum",
+        "link": "https://gundam.fandom.com/wiki/Clash_at_Loum",
+        "date": 1504278000000
+      },
+      {
+        "name": "Rise of the Red Comet",
+        "link": "https://gundam.fandom.com/wiki/Rise_of_the_Red_Comet",
+        "date": 1525446000000
+      }
+    ],
+    "availability": [
+      {
+        "name": "Hulu",
+        "link": "https://www.hulu.com/series/mobile-suit-gundam-the-origin-3211a7c9-930e-43ff-8ec4-e9d39d0e249a"
+      }
+    ],
     "main": true
   },
   {
@@ -12,7 +92,12 @@
     "nick": "Gundam",
     "year": 79,
     "img": "https://static.wikia.nocookie.net/gundam/images/8/88/MSG_logo_b.png",
+    "synop": "",
+    "chars": [],
+    "wiki": "",
     "type": "Series/OVA",
+    "eps": [],
+    "availability": [],
     "main": true
   },
   {
@@ -20,6 +105,7 @@
     "nick": "Thunderbolt",
     "year": 79,
     "img": "https://static.wikia.nocookie.net/gundam/images/4/4e/Logo_Thunderbolt.png",
+    "synop": "",
     "type": "Series/OVA",
     "main": false
   },
@@ -28,6 +114,7 @@
     "nick": "08th MS Team",
     "year": 79,
     "img": "https://static.wikia.nocookie.net/gundam/images/4/4d/Logo_Mobile_Suit_Gundam_The_08th_MS_Team.jpg",
+    "synop": "",
     "type": "Series/OVA",
     "main": false
   },
@@ -36,6 +123,7 @@
     "nick": "MS IGLOO",
     "year": 79,
     "img": "https://static.wikia.nocookie.net/gundam/images/1/15/Logo_MS_IGLOO_Apocalypse_0079.png",
+    "synop": "",
     "type": "Series/OVA",
     "main": false
   },
@@ -44,6 +132,7 @@
     "nick": "MS IGLOO 2",
     "year": 79,
     "img": "https://static.wikia.nocookie.net/gundam/images/1/18/Logo_MS_IGLOO_2.png",
+    "synop": "",
     "type": "Series/OVA",
     "main": false
   },
@@ -52,6 +141,7 @@
     "nick": "War in the Pocket",
     "year": 80,
     "img": "https://static.wikia.nocookie.net/gundam/images/a/a5/Gundam_0080_logo.png",
+    "synop": "",
     "type": "Series/OVA",
     "main": true
   },
@@ -60,6 +150,7 @@
     "nick": "Stardust Memory",
     "year": 83,
     "img": "https://static.wikia.nocookie.net/gundam/images/e/e0/Logo_Mobile_Suit_Gundam_0083_Stardust_Memory.jpg",
+    "synop": "",
     "type": "Series/OVA",
     "main": true
   },
@@ -68,6 +159,7 @@
     "nick": "Afterglow of Zeon",
     "year": 83,
     "img": "https://static.wikia.nocookie.net/gundam/images/7/79/0083_AZ_Logo.png",
+    "synop": "",
     "type": "Movie",
     "main": false
   },
@@ -76,6 +168,7 @@
     "nick": "Zeta Gundam",
     "year": 87,
     "img": "https://static.wikia.nocookie.net/gundam/images/f/f9/Logo_Mobile_Suit_Zeta_Gundam.jpg",
+    "synop": "",
     "type": "Series/OVA",
     "main": true
   },
@@ -84,6 +177,7 @@
     "nick": "Gundam ZZ",
     "year": 88,
     "img": "https://static.wikia.nocookie.net/gundam/images/3/31/Logo_Mobile_Suit_Gundam_ZZ.jpg",
+    "synop": "",
     "type": "Series/OVA",
     "main": true
   },
@@ -92,6 +186,7 @@
     "nick": "Char's Counterattack",
     "year": 93,
     "img": "https://static.wikia.nocookie.net/gundam/images/6/6f/Logo_Mobile_Suit_Gundam_Char%27s_Counterattack.png",
+    "synop": "",
     "type": "Movie",
     "main": true
   },
@@ -100,6 +195,7 @@
     "nick": "Gundam Unicorn",
     "year": 96,
     "img": "https://static.wikia.nocookie.net/gundam/images/8/8d/Logo_Mobile_Suit_Gundam_Unicorn.png",
+    "synop": "",
     "type": "Series/OVA",
     "main": true
   },
@@ -108,6 +204,7 @@
     "nick": "Twilight Axis",
     "year": 96,
     "img": "https://static.wikia.nocookie.net/gundam/images/1/1b/Logo_Mobile_Suit_Gundam_Twilight_Axis.png",
+    "synop": "",
     "type": "Series/OVA",
     "main": true
   },
@@ -116,6 +213,7 @@
     "nick": "NT",
     "year": 97,
     "img": "https://static.wikia.nocookie.net/gundam/images/b/bd/Narrative_logo.png",
+    "synop": "",
     "type": "Movie",
     "main": true
   },
@@ -124,6 +222,7 @@
     "nick": "Hathaway's Flash",
     "year": 105,
     "img": "https://static.wikia.nocookie.net/gundam/images/5/59/Hathaway_novel_logo.png",
+    "synop": "",
     "type": "Movie",
     "main": true
   },
@@ -132,6 +231,7 @@
     "nick": "F91",
     "year": 123,
     "img": "https://static.wikia.nocookie.net/gundam/images/0/0d/Logo_Gundam_f91.png",
+    "synop": "",
     "type": "Movie",
     "main": true
   },
@@ -140,6 +240,7 @@
     "nick": "Victory Gundam",
     "year": 153,
     "img": "https://static.wikia.nocookie.net/gundam/images/b/b0/Logo_Mobile_Suit_Victory_Gundam.jpg",
+    "synop": "",
     "type": "Series/OVA",
     "main": true
   }

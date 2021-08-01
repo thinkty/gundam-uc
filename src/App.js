@@ -38,7 +38,7 @@ export default function App() {
   return (
     <div style={style.rootContainer}>
       <Title isMobile={isMobile} />
-      <Timeline list={list} />
+      <Timeline list={list} isMobile={isMobile} />
       <TimelineFooter />
     </div>
   );

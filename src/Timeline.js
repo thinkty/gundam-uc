@@ -11,7 +11,7 @@ const style = {
   },
 };
 
-export default function Timeline({ list }) {
+export default function Timeline({ list, isMobile }) {
   // This variable is used to decide whether the current year is identical to
   // the year in the item before
   let lastYear = 0;
@@ -28,6 +28,7 @@ export default function Timeline({ list }) {
               key={title}
               item={item}
               isSameYear={year === lastYear}
+              isMobile={isMobile}
             />
           );
           lastYear = year;

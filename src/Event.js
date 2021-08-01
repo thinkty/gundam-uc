@@ -41,7 +41,7 @@ const style = {
   },
 };
 
-export default function Event({ item, isSameYear }) {
+export default function Event({ item, isSameYear, isMobile }) {
   const { year, main, nick } = item;
   const [ selected, setSelection ] = useState(false);
 
@@ -70,7 +70,14 @@ export default function Event({ item, isSameYear }) {
         </div>
       </div>
       <div style={style.eventContent}>
-        { selected && <EventCard item={item} selected={selected} /> }
+        {
+          selected &&
+          <EventCard
+            item={item}
+            selected={selected}
+            isMobile={isMobile}
+          />
+        }
         <EventEdge />
       </div>
     </div>

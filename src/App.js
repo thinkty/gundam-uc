@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React, { useState, useEffect } from 'react';
 import Title from './Title';
 import Timeline from './Timeline';
 import list from './config/list.json';
@@ -17,14 +17,29 @@ const style = {
   },
 };
 
-export default class App extends Component {
-  render() {
-    return (
-      <div style={style.rootContainer}>
-        <Title />
-        <Timeline list={list} />
-        <TimelineFooter />
-      </div>
-    );
-  }
+export default function App() {
+  const [isMobile, setMobile] = useState(window.innerWidth < 500);
+
+  const updateViewportStatus = () => {
+    setMobile(window.innerWidth < 500);
+  };
+
+  // Register and cleanup event listener for "resizes"
+  useEffect(() => {
+    // Register
+    window.addEventListener('resize', updateViewportStatus);
+
+    // Cleanup
+    return () => {
+      window.removeEventListener('resize', updateViewportStatus);
+    };
+  }, []);
+
+  return (
+    <div style={style.rootContainer}>
+      <Title isMobile={isMobile} />
+      <Timeline list={list} />
+      <TimelineFooter />
+    </div>
+  );
 }

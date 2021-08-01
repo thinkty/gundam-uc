@@ -40,8 +40,7 @@ const style = {
   },
 };
 
-export default function Title() {
-  const isMobile = window.innerWidth < 500;
+export default function Title({ isMobile }) {
 
   return (
     <div style={style.flexContainer}>

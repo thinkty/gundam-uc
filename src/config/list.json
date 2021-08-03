@@ -5,49 +5,57 @@
     "year": 68,
     "img": "https://static.wikia.nocookie.net/gunplabuilders/images/5/59/MSG-The-Origin-Logo.png",
     "synop": "Mobile Suit Gundam: The Origin adapts Volumes 9-12 of the original manga, chronicling the events leading up to the main story, including the transformation of the Autonomous Republic of Munzo into the Principality of Zeon following the death of Zeon Zum Deikun, Casval Rem Deikun and Artesia Som Deikun's lives after escaping from Side 3, the development of the first mobile suits, the backstory of the White Base crew, and the first battles of the One Year War. ",
-    "chars": [
+    "characters": [
       {
         "name": "Casval Rem Deikun",
-        "link": "https://gundam.fandom.com/wiki/Casval_Rem_Deikun_(Origin)"
+        "link": "https://gundam.fandom.com/wiki/Casval_Rem_Deikun_(Origin)",
+        "img": "https://static.wikia.nocookie.net/gundam/images/d/db/Char_Aznable_0074.png/revision/latest/top-crop/width/100/height/100"
       },
       {
         "name": "Artesia Som Deikun",
-        "link": "https://gundam.fandom.com/wiki/Sayla_Mass_(Origin)"
+        "link": "https://gundam.fandom.com/wiki/Sayla_Mass_(Origin)",
+        "img": "https://static.wikia.nocookie.net/gundam/images/2/20/Sayla_Mass_The_Origin_gun.png/revision/latest/top-crop/width/100/height/100"
       },
       {
         "name": "Garma Zabi",
         "link": "https://gundam.fandom.com/wiki/Garma_Zabi_(Origin)"
       }
     ],
-    "mss": [
+    "mobiles": [
       {
         "name": "RTX-65 Guntank Early Type",
-        "link": "https://gundam.fandom.com/wiki/RTX-65_Guntank_Early_Type"
+        "link": "https://gundam.fandom.com/wiki/RTX-65_Guntank_Early_Type",
+        "img": "https://static.wikia.nocookie.net/gundam/images/4/4c/Guntank_Early_Type_OVA.jpg"
       },
       {
         "name": "RCX-76 Guncannon First Type Rollout Unit 1",
-        "link": "https://gundam.fandom.com/wiki/RCX-76_Guncannon_First_Type_Rollout_Unit_1"
+        "link": "https://gundam.fandom.com/wiki/RCX-76_Guncannon_First_Type_Rollout_Unit_1",
+        "img": "https://static.wikia.nocookie.net/gundam/images/5/50/RCX-76_Guncannon_First_Type_Rollout_Unit_1.png"
       },
       {
         "name": "RX-78-02 Gundam",
-        "link": "https://gundam.fandom.com/wiki/RX-78-02_Gundam"
+        "link": "https://gundam.fandom.com/wiki/RX-78-02_Gundam",
+        "img": "https://static.wikia.nocookie.net/gundam/images/0/0f/RX-78-02_Gundam.png"
       },
       {
         "name": "MS-04 Bugu",
-        "link": "https://gundam.fandom.com/wiki/MS-04_Bugu"
+        "link": "https://gundam.fandom.com/wiki/MS-04_Bugu",
+        "img": "https://static.wikia.nocookie.net/gundam/images/f/f4/MS-04_Bugu.png"
       },
       {
         "name": "MS-05 Zaku I",
-        "link": "https://gundam.fandom.com/wiki/MS-05_Zaku_I/Origin"
+        "link": "https://gundam.fandom.com/wiki/MS-05_Zaku_I/Origin",
+        "img": "https://static.wikia.nocookie.net/gundam/images/6/66/Zaku1denim.jpg"
       },
       {
         "name": "MS-06C Zaku II",
-        "link": "https://gundam.fandom.com/wiki/MS-06C_Zaku_II"
+        "link": "https://gundam.fandom.com/wiki/MS-06C_Zaku_II",
+        "img": "https://static.wikia.nocookie.net/gundam/images/7/7e/MS-06C_Zaku_II_Front.png"
       }
     ],
     "wiki": "https://gundam.fandom.com/wiki/Mobile_Suit_Gundam:_The_Origin",
     "type": "Series/OVA",
-    "eps": [
+    "episodes": [
       {
         "name": "Blue-Eyed Casval",
         "link": "https://gundam.fandom.com/wiki/Blue-Eyed_Casval",
@@ -93,10 +101,10 @@
     "year": 79,
     "img": "https://static.wikia.nocookie.net/gundam/images/8/88/MSG_logo_b.png",
     "synop": "",
-    "chars": [],
+    "characters": [],
     "wiki": "",
     "type": "Series/OVA",
-    "eps": [],
+    "episodes": [],
     "availability": [],
     "main": true
   },

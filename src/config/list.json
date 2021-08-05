@@ -9,16 +9,19 @@
       {
         "name": "Casval Rem Deikun",
         "link": "https://gundam.fandom.com/wiki/Casval_Rem_Deikun_(Origin)",
-        "img": "https://static.wikia.nocookie.net/gundam/images/d/db/Char_Aznable_0074.png/revision/latest/top-crop/width/100/height/100"
+        "desc": "Casval Rem Deikun, later known as Édouard Mass and then Char Aznable, is one of the main characters from the Mobile Suit Gundam: The Origin manga and its OVA adaptation.",
+        "img": "https://static.wikia.nocookie.net/gundam/images/d/db/Char_Aznable_0074.png/revision/latest/top-crop/width/50/height/50"
       },
       {
         "name": "Artesia Som Deikun",
         "link": "https://gundam.fandom.com/wiki/Sayla_Mass_(Origin)",
-        "img": "https://static.wikia.nocookie.net/gundam/images/2/20/Sayla_Mass_The_Origin_gun.png/revision/latest/top-crop/width/100/height/100"
+        "desc": "Sayla Mass, born Artesia Som Deikun is a character from the Mobile Suit Gundam: The Origin manga and its OVA adaptation.",
+        "img": "https://static.wikia.nocookie.net/gundam/images/2/20/Sayla_Mass_The_Origin_gun.png/revision/latest/top-crop/width/50/height/50"
       },
       {
         "name": "Garma Zabi",
-        "link": "https://gundam.fandom.com/wiki/Garma_Zabi_(Origin)"
+        "link": "https://gundam.fandom.com/wiki/Garma_Zabi_(Origin)",
+        "desc": "Garma Zabi is a character from the Mobile Suit Gundam: The Origin manga and its OVA adaptation."
       }
     ],
     "mobiles": [

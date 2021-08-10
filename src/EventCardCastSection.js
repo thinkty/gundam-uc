@@ -75,11 +75,35 @@ function CharacterChip({ character }) {
   );
 }
 
+function MobileChip({ mobile }) {
+  const { name, link, img } = mobile;
+  const [isHovering, setHover] = useState(false);
+
+  return (
+    <div style={{ position: 'relative' }}>
+      <div
+        style={style.chip}
+        onClick={() => { window.open(link); }}
+        onMouseEnter={() => { setHover(true); }}
+        onMouseLeave={() => { setHover(false); }}
+      >
+        { name }
+      </div>
+      {
+        isHovering &&
+        <span style={style.chipTooltip}>
+          <img src={img} />
+        </span>
+      }
+    </div>
+  );
+}
+
 export default function EventCardCastSection({ isMobile, characters, mobiles }) {
   return (
     <div style={style.container}>
       <div style={style.header}>
-        { '[ Characters ]' }
+        { 'Characters' }
       </div>
       <div style={style.chipContainer}>
         {
@@ -87,6 +111,19 @@ export default function EventCardCastSection({ isMobile, characters, mobiles }) 
             <CharacterChip
               key={character.name}
               character={character}
+            />
+          ))
+        }
+      </div>
+      <div style={style.header}>
+        { 'Mobile Suits / Armors' }
+      </div>
+      <div style={style.chipContainer}>
+        {
+          mobiles.map((mobile) => (
+            <MobileChip
+              key={mobile.name}
+              mobile={mobile}
             />
           ))
         }

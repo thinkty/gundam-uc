@@ -78,6 +78,7 @@ export default function EventCard({ item, isMobile }) {
         type={type}
         episodes={episodes}
         availability={availability}
+        isMobile={isMobile}
       />
     </div>
   );

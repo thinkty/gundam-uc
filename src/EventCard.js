@@ -59,6 +59,7 @@ export default function EventCard({ item, isMobile }) {
       <EventCardTitleSection
         title={title}
         year={year}
+        wiki={wiki}
       />
       <hr />
       <EventCardContentSection

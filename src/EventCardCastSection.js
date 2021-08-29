@@ -1,9 +1,6 @@
 import React, { useState } from 'react';
 
 const style = {
-  container: {
-
-  },
   header: {
     color: '#ffffff',
     fontFamily: 'sans-serif',
@@ -101,7 +98,7 @@ function MobileChip({ mobile }) {
 
 export default function EventCardCastSection({ isMobile, characters, mobiles }) {
   return (
-    <div style={style.container}>
+    <>
       <div style={style.header}>
         { 'Characters' }
       </div>
@@ -128,6 +125,6 @@ export default function EventCardCastSection({ isMobile, characters, mobiles }) 
           ))
         }
       </div>
-    </div>
+    </>
   );
 }

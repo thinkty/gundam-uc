@@ -84,12 +84,7 @@
         "link": "https://gundam.fandom.com/wiki/Rise_of_the_Red_Comet"
       }
     ],
-    "availability": [
-      {
-        "name": "Hulu",
-        "link": "https://www.hulu.com/series/mobile-suit-gundam-the-origin-3211a7c9-930e-43ff-8ec4-e9d39d0e249a"
-      }
-    ],
+    "availability": "Mobile Suit Gundam: The Origin",
     "main": true
   },
   {
@@ -97,12 +92,252 @@
     "nick": "Gundam",
     "year": 79,
     "img": "https://static.wikia.nocookie.net/gundam/images/8/88/MSG_logo_b.png",
-    "synop": "",
-    "characters": [],
-    "wiki": "",
+    "synop": "It is the year Universal Century 0079, and the space colonies have declared war on the Earth Federation under the guidance of the Principality of Zeon. In one of these colonies, the Earth Federation is storing and testing a new piloted robot for use in the battle against the Principality of Zeon. The experimental RX-78 Gundam mobile suit is forced into combat with a civilian pilot and an untested crew before it can be transported to the Federation's HQ on Earth. With few resources available against the Zeon's brightest and best, will they be able to escape, let alone deliver the RX-78 to Earth?",
+    "characters": [
+      {
+        "name": "Amuro Ray",
+        "link": "https://gundam.fandom.com/wiki/Amuro_Ray",
+        "desc": "Amuro Ray (アムロ・レイ Amuro Rei) is one of the main characters from the Universal Century timeline. He is the protagonist of Mobile Suit Gundam, a supporting character in the sequel Mobile Suit Zeta Gundam, and the protagonist of Mobile Suit Gundam: Char's Counterattack. A Gundam pilot and a Newtype, he is most famous for piloting the powerful RX-78-2 Gundam during the One Year War.",
+        "img": ""
+      },
+      {
+        "name": "Bright Noa",
+        "link": "https://gundam.fandom.com/wiki/Bright_Noa",
+        "desc": "At the beginning of in Mobile Suit Gundam, Bright is an officer candidate without a commission from the Earth Federation Space Forces, but takes command as the highest-ranking surviving military personnel. Bright's commands include the White Base, the shuttle Temptation, Anti Earth Union Group's Argama, the entire AEUG fleet, and Londo Bell's Ra Cailum.",
+        "img": ""
+      },
+      {
+        "name": "Char Aznable",
+        "link": "https://gundam.fandom.com/wiki/Char_Aznable",
+        "desc": "He was introduced as one of the antagonists of Mobile Suit Gundam and later becomes one of the protagonists of Mobile Suit Zeta Gundam before finally returning as the main antagonist of Mobile Suit Gundam: Char's Counterattack.",
+        "img": ""
+      },
+      {
+        "name": "Lalah Sune",
+        "link": "https://gundam.fandom.com/wiki/Lalah_Sune",
+        "desc": "N/A",
+        "img": ""
+      }
+    ],
+    "mobiles": [
+      {
+        "name": "RX-78-2 Gundam",
+        "link": "https://gundam.fandom.com/wiki/RX-78-2_Gundam",
+        "img": "https://static.wikia.nocookie.net/gundam/images/3/36/01._RX-78-2_Gundam.jpg"
+      },
+      {
+        "name": "RX-77-2 Guncannon",
+        "link": "https://gundam.fandom.com/wiki/RX-77-2_Guncannon",
+        "img": "https://static.wikia.nocookie.net/gundam/images/e/eb/Rx-77-2.jpg"
+      },
+      {
+        "name": "RX-75 Guntank",
+        "link": "https://gundam.fandom.com/wiki/RX-75_Guntank",
+        "img": "https://static.wikia.nocookie.net/gundam/images/8/86/RX-75-4.JPG"
+      },
+      {
+        "name": "RGM-79 GM",
+        "link": "https://gundam.fandom.com/wiki/RGM-79_GM",
+        "img": "https://static.wikia.nocookie.net/gundam/images/7/7d/Rgm-79.jpg"
+      },
+      {
+        "name": "MS-06F Zaku II",
+        "link": "https://gundam.fandom.com/wiki/MS-06F_Zaku_II",
+        "img": "https://static.wikia.nocookie.net/gundam/images/8/8d/Ms-06f.jpg"
+      },
+      {
+        "name": "MS-07B Gouf",
+        "link": "https://gundam.fandom.com/wiki/MS-07B_Gouf",
+        "img": "https://static.wikia.nocookie.net/gundam/images/d/d1/Ms-07b_1.jpg"
+      },
+      {
+        "name": "MS-09B Dom",
+        "link": "https://gundam.fandom.com/wiki/MS-09B_Dom",
+        "img": "https://static.wikia.nocookie.net/gundam/images/2/24/Ms-09.jpg"
+      },
+      {
+        "name": "MSN-02 Zeong",
+        "link": "https://gundam.fandom.com/wiki/MSN-02_Zeong",
+        "img": "https://static.wikia.nocookie.net/gundam/images/a/a0/Msn-02.jpg"
+      }
+    ],
+    "wiki": "https://gundam.fandom.com/wiki/Mobile_Suit_Gundam",
     "type": "Series/OVA",
-    "episodes": [],
-    "availability": [],
+    "episodes": [
+      {
+        "name": "Gundam Rising",
+        "link": "https://gundam.fandom.com/wiki/Gundam_Rising"
+      },
+      {
+        "name": "Destroy Gundam",
+        "link": "https://gundam.fandom.com/wiki/Destroy_Gundam"
+      },
+      {
+        "name": "Vote to Attack",
+        "link": "https://gundam.fandom.com/wiki/Vote_to_Attack"
+      },
+      {
+        "name": "Escape from Luna II",
+        "link": "https://gundam.fandom.com/wiki/Escape_from_Luna_II"
+      },
+      {
+        "name": "Re-Entry to Earth",
+        "link": "https://gundam.fandom.com/wiki/Re-Entry_to_Earth"
+      },
+      {
+        "name": "Garma Strikes",
+        "link": "https://gundam.fandom.com/wiki/Garma_Strikes"
+      },
+      {
+        "name": "The Core Fighter's Escape",
+        "link": "https://gundam.fandom.com/wiki/The_Core_Fighter%27s_Escape"
+      },
+      {
+        "name": "Winds of War",
+        "link": "https://gundam.fandom.com/wiki/Winds_of_War"
+      },
+      {
+        "name": "Fly! Gundam",
+        "link": "https://gundam.fandom.com/wiki/Fly!_Gundam"
+      },
+      {
+        "name": "Garma's Fate",
+        "link": "https://gundam.fandom.com/wiki/Garma%27s_Fate"
+      },
+      {
+        "name": "Icelina- Love's Remains",
+        "link": "https://gundam.fandom.com/wiki/Icelina-_Love%27s_Remains"
+      },
+      {
+        "name": "The Threat of Zeon",
+        "link": "https://gundam.fandom.com/wiki/The_Threat_of_Zeon"
+      },
+      {
+        "name": "Coming Home",
+        "link": "https://gundam.fandom.com/wiki/Coming_Home"
+      },
+      {
+        "name": "Time, Be Still",
+        "link": "https://gundam.fandom.com/wiki/Time,_Be_Still"
+      },
+      {
+        "name": "Cucuruz Doan's Island",
+        "link": "https://gundam.fandom.com/wiki/Cucuruz_Doan%27s_Island"
+      },
+      {
+        "name": "Sayla's Agony",
+        "link": "https://gundam.fandom.com/wiki/Sayla%27s_Agony"
+      },
+      {
+        "name": "Amuro Deserts",
+        "link": "https://gundam.fandom.com/wiki/Amuro_Deserts"
+      },
+      {
+        "name": "Zeon's Secret Mine",
+        "link": "https://gundam.fandom.com/wiki/Zeon%27s_Secret_Mine"
+      },
+      {
+        "name": "Ramba Ral's Attack",
+        "link": "https://gundam.fandom.com/wiki/Ramba_Ral%27s_Attack"
+      },
+      {
+        "name": "Hand-to-Hand Combat",
+        "link": "https://gundam.fandom.com/wiki/Hand-to-Hand_Combat"
+      },
+      {
+        "name": "Sorrow and Hatred",
+        "link": "https://gundam.fandom.com/wiki/Sorrow_and_Hatred"
+      },
+      {
+        "name": "The Trap of M'Quve",
+        "link": "https://gundam.fandom.com/wiki/The_Trap_of_M%27Quve"
+      },
+      {
+        "name": "Matilda's Rescue",
+        "link": "https://gundam.fandom.com/wiki/Matilda%27s_Rescue"
+      },
+      {
+        "name": "Black Tri-Star",
+        "link": "https://gundam.fandom.com/wiki/Black_Tri-Star"
+      },
+      {
+        "name": "The Battle of Odessa",
+        "link": "https://gundam.fandom.com/wiki/The_Battle_of_Odessa"
+      },
+      {
+        "name": "Char Returns",
+        "link": "https://gundam.fandom.com/wiki/Char_Returns"
+      },
+      {
+        "name": "A Spy on Board",
+        "link": "https://gundam.fandom.com/wiki/A_Spy_on_Board"
+      },
+      {
+        "name": "Across the Atlantic Ocean",
+        "link": "https://gundam.fandom.com/wiki/Across_the_Atlantic_Ocean"
+      },
+      {
+        "name": "Tragedy In Jaburo",
+        "link": "https://gundam.fandom.com/wiki/Tragedy_In_Jaburo"
+      },
+      {
+        "name": "A Wish of War Orphans",
+        "link": "https://gundam.fandom.com/wiki/A_Wish_of_War_Orphans"
+      },
+      {
+        "name": "A Decoy in Space",
+        "link": "https://gundam.fandom.com/wiki/A_Decoy_in_Space"
+      },
+      {
+        "name": "Breakthrough",
+        "link": "https://gundam.fandom.com/wiki/Breakthrough"
+      },
+      {
+        "name": "Farewell in Side 6",
+        "link": "https://gundam.fandom.com/wiki/Farewell_in_Side_6"
+      },
+      {
+        "name": "A Fateful Encounter",
+        "link": "https://gundam.fandom.com/wiki/A_Fateful_Encounter"
+      },
+      {
+        "name": "The Glory of Solomon",
+        "link": "https://gundam.fandom.com/wiki/The_Glory_of_Solomon"
+      },
+      {
+        "name": "Big Zam's Last Stand",
+        "link": "https://gundam.fandom.com/wiki/Big_Zam%27s_Last_Stand"
+      },
+      {
+        "name": "The Duel in Texas",
+        "link": "https://gundam.fandom.com/wiki/The_Duel_in_Texas"
+      },
+      {
+        "name": "Char and Sayla",
+        "link": "https://gundam.fandom.com/wiki/Char_and_Sayla"
+      },
+      {
+        "name": "The Newtype: Challia Bull",
+        "link": "https://gundam.fandom.com/wiki/The_Newtype:_Challia_Bull"
+      },
+      {
+        "name": "Lalah's Dilemma",
+        "link": "https://gundam.fandom.com/wiki/Lalah%27s_Dilemma"
+      },
+      {
+        "name": "A Cosmic Glow",
+        "link": "https://gundam.fandom.com/wiki/A_Cosmic_Glow"
+      },
+      {
+        "name": "Space Fortress: A Baoa Qu",
+        "link": "https://gundam.fandom.com/wiki/Space_Fortress:_A_Baoa_Qu"
+      },
+      {
+        "name": "Escape",
+        "link": "https://gundam.fandom.com/wiki/Escape"
+      }
+    ],
+    "availability": "Mobile Suit Gundam",
     "main": true
   },
   {
@@ -111,7 +346,43 @@
     "year": 79,
     "img": "https://static.wikia.nocookie.net/gundam/images/4/4e/Logo_Thunderbolt.png",
     "synop": "",
+    "characters": [
+      {
+        "name": "",
+        "link": "",
+        "desc": ""
+      },
+      {
+        "name": "",
+        "link": "",
+        "desc": ""
+      }
+    ],
+    "mobiles": [
+      {
+        "name": "",
+        "link": "",
+        "img": ""
+      },
+      {
+        "name": "",
+        "link": "",
+        "img": ""
+      }
+    ],
+    "wiki": "",
     "type": "Series/OVA",
+    "episodes": [
+      {
+        "name": "",
+        "link": ""
+      },
+      {
+        "name": "",
+        "link": ""
+      }
+    ],
+    "availability": "Mobile Suit Gundam Thunderbolt",
     "main": false
   },
   {
@@ -120,7 +391,42 @@
     "year": 79,
     "img": "https://static.wikia.nocookie.net/gundam/images/4/4d/Logo_Mobile_Suit_Gundam_The_08th_MS_Team.jpg",
     "synop": "",
+    "characters": [
+      {
+        "name": "",
+        "link": "",
+        "desc": ""
+      },
+      {
+        "name": "",
+        "link": "",
+        "desc": ""
+      }
+    ],
+    "mobiles": [
+      {
+        "name": "",
+        "link": "",
+        "img": ""
+      },
+      {
+        "name": "",
+        "link": "",
+        "img": ""
+      }
+    ],
+    "wiki": "",
     "type": "Series/OVA",
+    "episodes": [
+      {
+        "name": "",
+        "link": ""
+      },
+      {
+        "name": "",
+        "link": ""
+      }
+    ],
     "main": false
   },
   {

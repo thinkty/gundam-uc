@@ -345,41 +345,90 @@
     "nick": "Thunderbolt",
     "year": 79,
     "img": "https://static.wikia.nocookie.net/gundam/images/4/4e/Logo_Thunderbolt.png",
-    "synop": "",
+    "synop": "During the One Year War of U.C. 0079, the Earth Federation and Principality of Zeon engage in a fierce battle at the \"Thunderbolt Sector\", a shoal zone in the former Colony Side 4 \"Moore\". After successfully infiltrating Zeon's sniper field, ace Federation pilot and jazz enthusiast Io Fleming is given control of the latest Gundam prototype.",
     "characters": [
       {
-        "name": "",
-        "link": "",
-        "desc": ""
+        "name": "Io Fleming",
+        "link": "https://gundam.fandom.com/wiki/Io_Fleming",
+        "desc": "Io Fleming (イオ・フレミング Io Furemingu?) is the protagonist of the Mobile Suit Gundam Thunderbolt and its ONA adaptations."
       },
       {
-        "name": "",
-        "link": "",
-        "desc": ""
+        "name": "Daryl Lorenz",
+        "link": "https://gundam.fandom.com/wiki/Daryl_Lorenz",
+        "desc": "Daryl Lorenz (ダリル・ローレンツ Dariru Rōrentsu?) is the deuteragonist of the Mobile Suit Gundam Thunderbolt manga and its ONA adaptations."
       }
     ],
     "mobiles": [
       {
-        "name": "",
-        "link": "",
-        "img": ""
+        "name": "FA-78 Full Armor Gundam",
+        "link": "https://gundam.fandom.com/wiki/FA-78_Full_Armor_Gundam_(Thunderbolt_Ver.)",
+        "img": "https://static.wikia.nocookie.net/gundam/images/6/66/Full_Armor_Gundam_Thunderbolt-ova.png"
       },
       {
-        "name": "",
-        "link": "",
-        "img": ""
+        "name": "RX-78AL Atlas Gundam",
+        "link": "https://gundam.fandom.com/wiki/RX-78AL_Atlas_Gundam",
+        "img": "https://static.wikia.nocookie.net/gundam/images/a/a2/Rx-78al.jpg"
+      },
+      {
+        "name": "RGM-79 GM",
+        "link": "https://gundam.fandom.com/wiki/RGM-79_GM_(Thunderbolt_Ver.)",
+        "img": "https://static.wikia.nocookie.net/gundam/images/d/d9/Gm-thunderbolt1.jpg"
+      },
+      {
+        "name": "MS-06R Zaku II High Mobility Type",
+        "link": "https://gundam.fandom.com/wiki/MS-06R_Zaku_II_High_Mobility_Type_(Reuse_%22P%22_Device)",
+        "img": "https://static.wikia.nocookie.net/gundam/images/7/70/MS-06R_Zaku_-_Reuse_P_Device.jpg"
+      },
+      {
+        "name": "MS-09R Rick Dom",
+        "link": "https://gundam.fandom.com/wiki/MS-09R_Rick_Dom_(Thunderbolt_Ver.)",
+        "img": "https://static.wikia.nocookie.net/gundam/images/f/f4/Rick_Dom_Thunderbolt_Front.png"
+      },
+      {
+        "name": "MSN-02 Zeong",
+        "link": "https://gundam.fandom.com/wiki/MSN-02_Zeong",
+        "img": "https://static.wikia.nocookie.net/gundam/images/a/a0/Msn-02.jpg"
+      },
+      {
+        "name": "MS-14A Gelgoog",
+        "link": "https://gundam.fandom.com/wiki/MS-14A_Gelgoog_(Thunderbolt_Ver.)",
+        "img": "https://static.wikia.nocookie.net/gundam/images/2/2a/Gelgoog_Thunderbolt-ova.png"
       }
     ],
-    "wiki": "",
+    "wiki": "https://gundam.fandom.com/wiki/Mobile_Suit_Gundam_Thunderbolt",
     "type": "Series/OVA",
     "episodes": [
       {
-        "name": "",
-        "link": ""
+        "name": "Episode 1",
+        "link": "https://gundam.fandom.com/wiki/Mobile_Suit_Gundam_Thunderbolt_Episode_1"
       },
       {
-        "name": "",
-        "link": ""
+        "name": "Episode 2",
+        "link": "https://gundam.fandom.com/wiki/Mobile_Suit_Gundam_Thunderbolt_Episode_2"
+      },
+      {
+        "name": "Episode 3",
+        "link": "https://gundam.fandom.com/wiki/Mobile_Suit_Gundam_Thunderbolt_Episode_3"
+      },
+      {
+        "name": "Episode 4",
+        "link": "https://gundam.fandom.com/wiki/Mobile_Suit_Gundam_Thunderbolt_Episode_4"
+      },
+      {
+        "name": "Episode 5",
+        "link": "https://gundam.fandom.com/wiki/Mobile_Suit_Gundam_Thunderbolt_Episode_5"
+      },
+      {
+        "name": "Episode 6",
+        "link": "https://gundam.fandom.com/wiki/Mobile_Suit_Gundam_Thunderbolt_Episode_6"
+      },
+      {
+        "name": "Episode 7",
+        "link": "https://gundam.fandom.com/wiki/Mobile_Suit_Gundam_Thunderbolt_Episode_7"
+      },
+      {
+        "name": "Episode 8",
+        "link": "https://gundam.fandom.com/wiki/Mobile_Suit_Gundam_Thunderbolt_Episode_8"
       }
     ],
     "availability": "Mobile Suit Gundam Thunderbolt",
@@ -390,6 +439,278 @@
     "nick": "08th MS Team",
     "year": 79,
     "img": "https://static.wikia.nocookie.net/gundam/images/4/4d/Logo_Mobile_Suit_Gundam_The_08th_MS_Team.jpg",
+    "synop": "Universal Century 0079: The Jungles of Southeast Asia. During the One Year War, the Earth Federation and the Principality of Zeon are fighting a brutal guerrilla war for control of the area and its resources. Zeon’s best hope for victory in the region rests with an experimental mobile armor, the Apsaras Project and its pilot, Aina Sahalin. Meanwhile the Earth Federal Army, which has been fighting the Zeon in the region, receive reinforcements in the form of Ensign Shiro Amada, newly named commander of the 08th Mobile Suit Team. Aina and Shiro have met each other from a mutual rescue in space, but when Shiro discovers that Aina is in fact the pilot of the Zeon mobile armor he is arrested for treason. The Federation offers Shiro one chance at redemption: He must take the 08th MS Team deep into Zeon held territory to find Zeon’s hidden base. With the Zeon backed into a corner, and the Federation dependent on Shiro and his team for victory, the star crossed lovers must decide where their true allegiances lie: with each other, or with their respective sides.",
+    "characters": [
+      {
+        "name": "Shiro Amada",
+        "link": "https://gundam.fandom.com/wiki/Shiro_Amada",
+        "desc": "Shiro Amada (シロー・アマダ Shirō Amada?) is the main protagonist in Mobile Suit Gundam: The 08th MS Team. He primarily pilots the RX-79［G］ Gundam Ground Type. After the unit was severely damaged in combat, his Gundam was repaired and re-classified as RX-79［G］Ez-8 Gundam Ez8."
+      },
+      {
+        "name": "Aina Sahalin",
+        "link": "https://gundam.fandom.com/wiki/Aina_Sahalin",
+        "desc": "Aina Sahalin (アイナ・サハリン Aina Saharin?)[1] is the deuteragonists of Mobile Suit Gundam: The 08th MS Team. She is a test pilot for the Apsalus Project, and the younger sister of Ginias Sahalin."
+      },
+      {
+        "name": "Ginias Sahalin",
+        "link": "https://gundam.fandom.com/wiki/Ginias_Sahalin",
+        "desc": "Ginias Sahalin (ギニアス・サハリン Giniasu Saharin?)[1] is the antagonist of Mobile Suit Gundam: The 08th MS Team. He is a technical officer in the Principality of Zeon's military, and is the older brother of Aina Sahalin."
+      }
+    ],
+    "mobiles": [
+      {
+        "name": "RX-79［G］Ez-8 Gundam Ez8",
+        "link": "https://gundam.fandom.com/wiki/RX-79%EF%BC%BBG%EF%BC%BDEz-8_Gundam_Ez8",
+        "img": "https://static.wikia.nocookie.net/gundam/images/f/f1/Rx-79g-ez8.png"
+      },
+      {
+        "name": "RX-79［G] Gundam Ground Type",
+        "link": "https://gundam.fandom.com/wiki/RX-79%EF%BC%BBG%EF%BC%BD_Gundam_Ground_Type",
+        "img": "https://static.wikia.nocookie.net/gundam/images/5/5d/Rx-79-G-.jpg"
+      },
+      {
+        "name": "RGM-79［G］ GM Ground Type",
+        "link": "https://gundam.fandom.com/wiki/RGM-79%EF%BC%BBG%EF%BC%BD_GM_Ground_Type",
+        "img": "https://static.wikia.nocookie.net/gundam/images/3/3b/Rgm-79g-ground.jpg"
+      },
+      {
+        "name": "Apsaras II",
+        "link": "https://gundam.fandom.com/wiki/Apsaras_II",
+        "img": "https://static.wikia.nocookie.net/gundam/images/3/3a/%28APSARAS_II%29_front_a.jpg"
+      },
+      {
+        "name": "MS-07B-3 Gouf Custom",
+        "link": "https://gundam.fandom.com/wiki/MS-07B-3_Gouf_Custom",
+        "img": "https://static.wikia.nocookie.net/gundam/images/1/1d/MS-07B3.jpg"
+      },
+      {
+        "name": "MS-09B Dom",
+        "link": "https://gundam.fandom.com/wiki/MS-09B_Dom",
+        "img": "https://static.wikia.nocookie.net/gundam/images/2/24/Ms-09.jpg"
+      },
+      {
+        "name": "MS-06JC Zaku II",
+        "link": "https://gundam.fandom.com/wiki/MS-06JC_Zaku_II",
+        "img": "https://static.wikia.nocookie.net/gundam/images/0/09/Ms-06jc.jpg"
+      },
+      {
+        "name": "MS-14A Gelgoog",
+        "link": "https://gundam.fandom.com/wiki/MS-14A_Gelgoog",
+        "img": "https://static.wikia.nocookie.net/gundam/images/6/6d/Ms-14a-front.jpg"
+      }
+    ],
+    "wiki": "https://gundam.fandom.com/wiki/Mobile_Suit_Gundam:_The_08th_MS_Team",
+    "type": "Series/OVA",
+    "episodes": [
+      {
+        "name": "War for Two",
+        "link": "https://gundam.fandom.com/wiki/War_for_Two_(08th_MS_Team)"
+      },
+      {
+        "name": "Gundams in the Jungle",
+        "link": "https://gundam.fandom.com/wiki/Gundams_in_the_Jungle"
+      },
+      {
+        "name": "The Time Limit on Trust",
+        "link": "https://gundam.fandom.com/wiki/The_Time_Limit_on_Trust"
+      },
+      {
+        "name": "The Demon Overhead",
+        "link": "https://gundam.fandom.com/wiki/The_Demon_Overhead"
+      },
+      {
+        "name": "The Broken Order to Standby",
+        "link": "https://gundam.fandom.com/wiki/The_Broken_Order_to_Standby"
+      },
+      {
+        "name": "Battle Line in the Burning Sand",
+        "link": "https://gundam.fandom.com/wiki/Battle_Line_in_the_Burning_Sand"
+      },
+      {
+        "name": "Reunion",
+        "link": "https://gundam.fandom.com/wiki/Reunion_(08th_MS_Team)"
+      },
+      {
+        "name": "Duty and Ideals",
+        "link": "https://gundam.fandom.com/wiki/Duty_and_Ideals"
+      },
+      {
+        "name": "Front Line",
+        "link": "https://gundam.fandom.com/wiki/Front_Line"
+      },
+      {
+        "name": "The Shuddering Mountain, Part 1",
+        "link": "https://gundam.fandom.com/wiki/The_Shuddering_Mountain,_Part_1"
+      },
+      {
+        "name": "The Shuddering Mountain, Part 2",
+        "link": "https://gundam.fandom.com/wiki/The_Shuddering_Mountain,_Part_2"
+      },
+      {
+        "name": "Last Resort",
+        "link": "https://gundam.fandom.com/wiki/Last_Resort"
+      }
+    ],
+    "availability": "Mobile Suit Gundam: The 08th MS Team",
+    "main": false
+  },
+  {
+    "title": "Mobile Suit Gundam MS IGLOO: The Hidden One Year War",
+    "nick": "MS IGLOO 0",
+    "year": 79,
+    "img": "https://static.wikia.nocookie.net/gundam/images/0/04/Igloo_HOYW_logo.png",
+    "synop": "Universal Century 0079: The Principality of Zeon and the Earth Federation are fighting each other during the infancy of the One Year War. Zeon's Jotunheim (once a civilian space cargo ship) has been commissioned to test various weapon prototypes against the Earth Federation, in tests to be conducted by the crew of the Jotunheim, the 603 . Oliver May is the engineering lieutenant in charge of reporting the outcome of the prototype tests, to determine what weapons should be mass-manufactured for Zeon usage during the upcoming months of war. These prototype weapons include the Jormungand cannon, the Hidolfr tank, and the EMS-10 Zudah Mobile Suit. The Hidden One Year War also includes events pivotal in the Universal Century timeline, such as Operation British, the Battle of Loum, and the aftermath of Operation Odessa.",
+    "characters": [
+      {
+        "name": "Oliver May",
+        "link": "https://gundam.fandom.com/wiki/Oliver_May",
+        "desc": "Engineering 1st Lt. Oliver May (オリヴァー・マイ?) is the protagonist of the OVA Mobile Suit Gundam MS IGLOO."
+      },
+      {
+        "name": "Monique Cadillac",
+        "link": "https://gundam.fandom.com/wiki/Monique_Cadillac",
+        "desc": "Special Operation Captain Monique Cadillac (モニク・キャディラック?) is one of the main characters from the OVA Mobile Suit Gundam MS IGLOO. "
+      }
+    ],
+    "mobiles": [
+      {
+        "name": "EMS-10 Zudah",
+        "link": "https://gundam.fandom.com/wiki/EMS-10_Zudah",
+        "img": "https://static.wikia.nocookie.net/gundam/images/4/4b/EMS-10_Zudah.jpg"
+      }
+    ],
+    "wiki": "https://gundam.fandom.com/wiki/Mobile_Suit_Gundam_MS_IGLOO:_The_Hidden_One_Year_War",
+    "type": "Series/OVA",
+    "episodes": [
+      {
+        "name": "The Serpent That Vanished at Loum",
+        "link": "https://gundam.fandom.com/wiki/The_Serpent_That_Vanished_at_Loum"
+      },
+      {
+        "name": "The Howl that Dyed the Setting Sun",
+        "link": "https://gundam.fandom.com/wiki/The_Howl_that_Dyed_the_Setting_Sun"
+      },
+      {
+        "name": "Dance of the Orbital Ghosts",
+        "link": "https://gundam.fandom.com/wiki/Dance_of_the_Orbital_Ghosts"
+      }
+    ],
+    "availability": "Mobile Suit Gundam MS IGLOO: The Hidden One Year War",
+    "main": false
+  },
+  {
+    "title": "Mobile Suit Gundam MS IGLOO: Apocalypse 0079",
+    "nick": "MS IGLOO 1",
+    "year": 79,
+    "img": "https://static.wikia.nocookie.net/gundam/images/1/15/Logo_MS_IGLOO_Apocalypse_0079.png",
+    "synop": "Universal Century 0079: The Principality of Zeon and the Earth Federation are fighting each other during the infancy of the One Year War. Zeon's Jotunheim has been commissioned to test various weapon prototypes against the Earth Federation, in tests to be conducted by the crew of the Jotunheim, the 603. Oliver May is the engineering lieutenant in charge of reporting the outcome of the prototype tests, to determine what weapons should be mass-manufactured for Zeon usage during the upcoming months of war. These prototype weapons include the MSM-07Di Ze'Gok, the MP-02A Oggo, and the MA-05Ad Big-Rang.",
+    "characters": [
+      {
+        "name": "Oliver May",
+        "link": "https://gundam.fandom.com/wiki/Oliver_May",
+        "desc": "Engineering 1st Lt. Oliver May (オリヴァー・マイ?) is the protagonist of the OVA Mobile Suit Gundam MS IGLOO."
+      },
+      {
+        "name": "Monique Cadillac",
+        "link": "https://gundam.fandom.com/wiki/Monique_Cadillac",
+        "desc": "Special Operation Captain Monique Cadillac (モニク・キャディラック?) is one of the main characters from the OVA Mobile Suit Gundam MS IGLOO. "
+      },
+      {
+        "name": "Ehrlich Kruger",
+        "link": "https://gundam.fandom.com/wiki/Ehrlich_Kruger",
+        "desc": "Ehrlich Kruger (エーリッヒ・クリューガー Ērihhi Kuryūgā?) is one of the main characters from the OVA Mobile Suit Gundam MS IGLOO. A commensurate vice-captain, Kruger has known Captain Martin Prochnow since the Jotunheim was a passenger transport ship before the One Year War."
+      }
+    ],
+    "mobiles": [
+      {
+        "name": "MA-05Ad Big Rang",
+        "link": "https://gundam.fandom.com/wiki/MA-05Ad_Big_Rang",
+        "img": "https://static.wikia.nocookie.net/gundam/images/1/19/MA-05Ad_Big_Rang_Type.jpg"
+      },
+      {
+        "name": "MP-02A Oggo",
+        "link": "https://gundam.fandom.com/wiki/MP-02A_Oggo",
+        "img": "https://static.wikia.nocookie.net/gundam/images/6/6a/MP-02A_Oggo_Normal_Mode.jpg"
+      },
+      {
+        "name": "MS-06S Zaku II Patrol Type",
+        "link": "https://gundam.fandom.com/wiki/MS-06S_Zaku_II_Patrol_Type",
+        "img": "https://static.wikia.nocookie.net/gundam/images/c/cf/Ms-06s-pt.jpg"
+      },
+      {
+        "name": "MSM-07Di Ze'Gok",
+        "link": "https://gundam.fandom.com/wiki/MSM-07Di_Ze%27Gok",
+        "img": "https://static.wikia.nocookie.net/gundam/images/9/98/Msm-07di.jpg"
+      }
+    ],
+    "wiki": "https://gundam.fandom.com/wiki/Mobile_Suit_Gundam_MS_IGLOO",
+    "type": "Series/OVA",
+    "episodes": [
+      {
+        "name": "In the Skies of Jaburo, I Saw the Sea",
+        "link": "https://gundam.fandom.com/wiki/In_the_Skies_of_Jaburo,_I_Saw_the_Sea"
+      },
+      {
+        "name": "Cross the Path of Light",
+        "link": "https://gundam.fandom.com/wiki/Cross_the_Path_of_Light"
+      },
+      {
+        "name": "Spirits Returning to the Cries of Thunder",
+        "link": "https://gundam.fandom.com/wiki/Spirits_Returning_to_the_Cries_of_Thunder"
+      }
+    ],
+    "availability": "Mobile Suit Gundam MS IGLOO: Apocalypse 0079",
+    "main": false
+  },
+  {
+    "title": "Mobile Suit Gundam MS IGLOO 2: The Gravity Front",
+    "nick": "MS IGLOO 2",
+    "year": 79,
+    "img": "https://static.wikia.nocookie.net/gundam/images/1/18/Logo_MS_IGLOO_2.png",
+    "synop": "Universal Century 0079: The Principality of Zeon and the Earth Federation are fighting each other during the infancy of the One Year War. Now this time Mobile Suit Gundam MS IGLOO will focus on the Earth Federation's point of view. The Earth Federation forces battle Zeon's soldiers and Zakus to regain back their territory. The Gravity Front also includes events pivotal in the Universal Century timeline, such as Operation British, and Operation Odessa. ",
+    "characters": [
+      {
+        "name": "Herman Yandell",
+        "link": "https://gundam.fandom.com/wiki/Herman_Yandell",
+        "desc": "He is one of the best Type 61 tank pilots as well as a great strategist, successfully destroying 7 Zaku units including killing the Zeon ace Elmer Snell. "
+      }
+    ],
+    "mobiles": [
+      {
+        "name": "RTX-440 Ground Assault Type Guntank",
+        "link": "https://gundam.fandom.com/wiki/RTX-440_Ground_Assault_Type_Guntank",
+        "img": "https://static.wikia.nocookie.net/gundam/images/4/41/RTX-440_Ground_Assault_Type_Guntank_Normal_Front.png"
+      },
+      {
+        "name": "MS-06J Zaku II Ground Type",
+        "link": "https://gundam.fandom.com/wiki/MS-06J_Zaku_II_Ground_Type",
+        "img": "https://static.wikia.nocookie.net/gundam/images/8/8d/Ms-06f.jpg"
+      }
+    ],
+    "wiki": "https://gundam.fandom.com/wiki/Mobile_Suit_Gundam_MS_IGLOO_2:_The_Gravity_Front",
+    "type": "Series/OVA",
+    "episodes": [
+      {
+        "name": "Shoot at that Death!",
+        "link": "https://gundam.fandom.com/wiki/Shoot_at_that_Death!"
+      },
+      {
+        "name": "King of the Land, Forward!",
+        "link": "https://gundam.fandom.com/wiki/King_of_the_Land,_Forward!"
+      },
+      {
+        "name": "Odessa, Iron Storm!",
+        "link": "https://gundam.fandom.com/wiki/Odessa,_Iron_Storm!"
+      }
+    ],
+    "availability": "Mobile Suit Gundam MS IGLOO 2: The Gravity Front",
+    "main": false
+  },
+  {
+    "title": "Mobile Suit Gundam 0080: War in the Pocket",
+    "nick": "War in the Pocket",
+    "year": 80,
+    "img": "https://static.wikia.nocookie.net/gundam/images/a/a5/Gundam_0080_logo.png",
     "synop": "",
     "characters": [
       {
@@ -427,33 +748,7 @@
         "link": ""
       }
     ],
-    "main": false
-  },
-  {
-    "title": "Mobile Suit Gundam MS IGLOO: Apocalypse 0079",
-    "nick": "MS IGLOO",
-    "year": 79,
-    "img": "https://static.wikia.nocookie.net/gundam/images/1/15/Logo_MS_IGLOO_Apocalypse_0079.png",
-    "synop": "",
-    "type": "Series/OVA",
-    "main": false
-  },
-  {
-    "title": "Mobile Suit Gundam MS IGLOO 2: The Gravity Front",
-    "nick": "MS IGLOO 2",
-    "year": 79,
-    "img": "https://static.wikia.nocookie.net/gundam/images/1/18/Logo_MS_IGLOO_2.png",
-    "synop": "",
-    "type": "Series/OVA",
-    "main": false
-  },
-  {
-    "title": "Mobile Suit Gundam 0080: War in the Pocket",
-    "nick": "War in the Pocket",
-    "year": 80,
-    "img": "https://static.wikia.nocookie.net/gundam/images/a/a5/Gundam_0080_logo.png",
-    "synop": "",
-    "type": "Series/OVA",
+    "availability": "",
     "main": true
   },
   {
@@ -462,7 +757,43 @@
     "year": 83,
     "img": "https://static.wikia.nocookie.net/gundam/images/e/e0/Logo_Mobile_Suit_Gundam_0083_Stardust_Memory.jpg",
     "synop": "",
+    "characters": [
+      {
+        "name": "",
+        "link": "",
+        "desc": ""
+      },
+      {
+        "name": "",
+        "link": "",
+        "desc": ""
+      }
+    ],
+    "mobiles": [
+      {
+        "name": "",
+        "link": "",
+        "img": ""
+      },
+      {
+        "name": "",
+        "link": "",
+        "img": ""
+      }
+    ],
+    "wiki": "",
     "type": "Series/OVA",
+    "episodes": [
+      {
+        "name": "",
+        "link": ""
+      },
+      {
+        "name": "",
+        "link": ""
+      }
+    ],
+    "availability": "",
     "main": true
   },
   {
@@ -471,7 +802,43 @@
     "year": 83,
     "img": "https://static.wikia.nocookie.net/gundam/images/7/79/0083_AZ_Logo.png",
     "synop": "",
+    "characters": [
+      {
+        "name": "",
+        "link": "",
+        "desc": ""
+      },
+      {
+        "name": "",
+        "link": "",
+        "desc": ""
+      }
+    ],
+    "mobiles": [
+      {
+        "name": "",
+        "link": "",
+        "img": ""
+      },
+      {
+        "name": "",
+        "link": "",
+        "img": ""
+      }
+    ],
+    "wiki": "",
     "type": "Movie",
+    "episodes": [
+      {
+        "name": "",
+        "link": ""
+      },
+      {
+        "name": "",
+        "link": ""
+      }
+    ],
+    "availability": "",
     "main": false
   },
   {
@@ -480,7 +847,43 @@
     "year": 87,
     "img": "https://static.wikia.nocookie.net/gundam/images/f/f9/Logo_Mobile_Suit_Zeta_Gundam.jpg",
     "synop": "",
+    "characters": [
+      {
+        "name": "",
+        "link": "",
+        "desc": ""
+      },
+      {
+        "name": "",
+        "link": "",
+        "desc": ""
+      }
+    ],
+    "mobiles": [
+      {
+        "name": "",
+        "link": "",
+        "img": ""
+      },
+      {
+        "name": "",
+        "link": "",
+        "img": ""
+      }
+    ],
+    "wiki": "",
     "type": "Series/OVA",
+    "episodes": [
+      {
+        "name": "",
+        "link": ""
+      },
+      {
+        "name": "",
+        "link": ""
+      }
+    ],
+    "availability": "",
     "main": true
   },
   {
@@ -489,7 +892,43 @@
     "year": 88,
     "img": "https://static.wikia.nocookie.net/gundam/images/3/31/Logo_Mobile_Suit_Gundam_ZZ.jpg",
     "synop": "",
+    "characters": [
+      {
+        "name": "",
+        "link": "",
+        "desc": ""
+      },
+      {
+        "name": "",
+        "link": "",
+        "desc": ""
+      }
+    ],
+    "mobiles": [
+      {
+        "name": "",
+        "link": "",
+        "img": ""
+      },
+      {
+        "name": "",
+        "link": "",
+        "img": ""
+      }
+    ],
+    "wiki": "",
     "type": "Series/OVA",
+    "episodes": [
+      {
+        "name": "",
+        "link": ""
+      },
+      {
+        "name": "",
+        "link": ""
+      }
+    ],
+    "availability": "",
     "main": true
   },
   {
@@ -498,7 +937,43 @@
     "year": 93,
     "img": "https://static.wikia.nocookie.net/gundam/images/6/6f/Logo_Mobile_Suit_Gundam_Char%27s_Counterattack.png",
     "synop": "",
+    "characters": [
+      {
+        "name": "",
+        "link": "",
+        "desc": ""
+      },
+      {
+        "name": "",
+        "link": "",
+        "desc": ""
+      }
+    ],
+    "mobiles": [
+      {
+        "name": "",
+        "link": "",
+        "img": ""
+      },
+      {
+        "name": "",
+        "link": "",
+        "img": ""
+      }
+    ],
+    "wiki": "",
     "type": "Movie",
+    "episodes": [
+      {
+        "name": "",
+        "link": ""
+      },
+      {
+        "name": "",
+        "link": ""
+      }
+    ],
+    "availability": "",
     "main": true
   },
   {
@@ -507,7 +982,43 @@
     "year": 96,
     "img": "https://static.wikia.nocookie.net/gundam/images/8/8d/Logo_Mobile_Suit_Gundam_Unicorn.png",
     "synop": "",
+    "characters": [
+      {
+        "name": "",
+        "link": "",
+        "desc": ""
+      },
+      {
+        "name": "",
+        "link": "",
+        "desc": ""
+      }
+    ],
+    "mobiles": [
+      {
+        "name": "",
+        "link": "",
+        "img": ""
+      },
+      {
+        "name": "",
+        "link": "",
+        "img": ""
+      }
+    ],
+    "wiki": "",
     "type": "Series/OVA",
+    "episodes": [
+      {
+        "name": "",
+        "link": ""
+      },
+      {
+        "name": "",
+        "link": ""
+      }
+    ],
+    "availability": "",
     "main": true
   },
   {
@@ -516,7 +1027,43 @@
     "year": 96,
     "img": "https://static.wikia.nocookie.net/gundam/images/1/1b/Logo_Mobile_Suit_Gundam_Twilight_Axis.png",
     "synop": "",
+    "characters": [
+      {
+        "name": "",
+        "link": "",
+        "desc": ""
+      },
+      {
+        "name": "",
+        "link": "",
+        "desc": ""
+      }
+    ],
+    "mobiles": [
+      {
+        "name": "",
+        "link": "",
+        "img": ""
+      },
+      {
+        "name": "",
+        "link": "",
+        "img": ""
+      }
+    ],
+    "wiki": "",
     "type": "Series/OVA",
+    "episodes": [
+      {
+        "name": "",
+        "link": ""
+      },
+      {
+        "name": "",
+        "link": ""
+      }
+    ],
+    "availability": "",
     "main": true
   },
   {
@@ -525,7 +1072,43 @@
     "year": 97,
     "img": "https://static.wikia.nocookie.net/gundam/images/b/bd/Narrative_logo.png",
     "synop": "",
+    "characters": [
+      {
+        "name": "",
+        "link": "",
+        "desc": ""
+      },
+      {
+        "name": "",
+        "link": "",
+        "desc": ""
+      }
+    ],
+    "mobiles": [
+      {
+        "name": "",
+        "link": "",
+        "img": ""
+      },
+      {
+        "name": "",
+        "link": "",
+        "img": ""
+      }
+    ],
+    "wiki": "",
     "type": "Movie",
+    "episodes": [
+      {
+        "name": "",
+        "link": ""
+      },
+      {
+        "name": "",
+        "link": ""
+      }
+    ],
+    "availability": "",
     "main": true
   },
   {
@@ -534,7 +1117,43 @@
     "year": 105,
     "img": "https://static.wikia.nocookie.net/gundam/images/5/59/Hathaway_novel_logo.png",
     "synop": "",
+    "characters": [
+      {
+        "name": "",
+        "link": "",
+        "desc": ""
+      },
+      {
+        "name": "",
+        "link": "",
+        "desc": ""
+      }
+    ],
+    "mobiles": [
+      {
+        "name": "",
+        "link": "",
+        "img": ""
+      },
+      {
+        "name": "",
+        "link": "",
+        "img": ""
+      }
+    ],
+    "wiki": "",
     "type": "Movie",
+    "episodes": [
+      {
+        "name": "",
+        "link": ""
+      },
+      {
+        "name": "",
+        "link": ""
+      }
+    ],
+    "availability": "",
     "main": true
   },
   {
@@ -543,7 +1162,43 @@
     "year": 123,
     "img": "https://static.wikia.nocookie.net/gundam/images/0/0d/Logo_Gundam_f91.png",
     "synop": "",
+    "characters": [
+      {
+        "name": "",
+        "link": "",
+        "desc": ""
+      },
+      {
+        "name": "",
+        "link": "",
+        "desc": ""
+      }
+    ],
+    "mobiles": [
+      {
+        "name": "",
+        "link": "",
+        "img": ""
+      },
+      {
+        "name": "",
+        "link": "",
+        "img": ""
+      }
+    ],
+    "wiki": "",
     "type": "Movie",
+    "episodes": [
+      {
+        "name": "",
+        "link": ""
+      },
+      {
+        "name": "",
+        "link": ""
+      }
+    ],
+    "availability": "",
     "main": true
   },
   {
@@ -552,7 +1207,43 @@
     "year": 153,
     "img": "https://static.wikia.nocookie.net/gundam/images/b/b0/Logo_Mobile_Suit_Victory_Gundam.jpg",
     "synop": "",
+    "characters": [
+      {
+        "name": "",
+        "link": "",
+        "desc": ""
+      },
+      {
+        "name": "",
+        "link": "",
+        "desc": ""
+      }
+    ],
+    "mobiles": [
+      {
+        "name": "",
+        "link": "",
+        "img": ""
+      },
+      {
+        "name": "",
+        "link": "",
+        "img": ""
+      }
+    ],
+    "wiki": "",
     "type": "Series/OVA",
+    "episodes": [
+      {
+        "name": "",
+        "link": ""
+      },
+      {
+        "name": "",
+        "link": ""
+      }
+    ],
+    "availability": "",
     "main": true
   }
 ]

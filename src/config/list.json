@@ -711,44 +711,95 @@
     "nick": "War in the Pocket",
     "year": 80,
     "img": "https://static.wikia.nocookie.net/gundam/images/a/a5/Gundam_0080_logo.png",
-    "synop": "",
+    "synop": "December, Universal Century 0079. Zeon intelligence has identified a prototype Federation Gundam under development in a Federation base in the Arctic. The Cyclops Team, an elite Zeon MS commando team, is dispatched to destroy the prototype, but before they can accomplish their mission, the Gundam is launched into space.\nWhen the Gundam turns up in a Federation R&D base inside the neutral space colony Side 6, the Principality launches a covert operation to destroy the Gundam. When the raid fails, the Zeon prepares to launch a nuclear strike against the colony as punishment for siding with the Federation, unless the last remaining commando can eliminate the Gundam.",
     "characters": [
       {
-        "name": "",
-        "link": "",
-        "desc": ""
+        "name": "Alfred Izuruha",
+        "link": "https://gundam.fandom.com/wiki/Alfred_Izuruha",
+        "desc": "Alfred Izuruha (アルフレッド・イズルハ Arufureddo Izuruha?), or simply Al (アル Aru?), is the protagonist of Mobile Suit Gundam 0080: War in the Pocket. "
       },
       {
-        "name": "",
-        "link": "",
-        "desc": ""
+        "name": "Christina Mackenzie",
+        "link": "https://gundam.fandom.com/wiki/Christina_Mackenzie",
+        "desc": "Christina Mackenzie (クリスチーナ・マッケンジー Kurisuchīna Makkenjī?) is one of the main characters from Mobile Suit Gundam 0080: War in the Pocket."
+      },
+      {
+        "name": "Bernard Wiseman",
+        "link": "https://gundam.fandom.com/wiki/Bernard_Wiseman",
+        "desc": "Bernard Wiseman (バーナード・ワイズマン?), or simply Bernie (バーニィ Bāni)?), is a fictional character from Mobile Suit Gundam 0080: War in the Pocket."
       }
     ],
     "mobiles": [
       {
-        "name": "",
-        "link": "",
-        "img": ""
+        "name": "RX-78NT-1 Gundam \"Alex\"",
+        "link": "https://gundam.fandom.com/wiki/RX-78NT-1_Gundam_%22Alex%22",
+        "img": "https://static.wikia.nocookie.net/gundam/images/1/1a/RX-78NT-1.jpg"
       },
       {
-        "name": "",
-        "link": "",
-        "img": ""
+        "name": "RGM-79G GM Command",
+        "link": "https://gundam.fandom.com/wiki/RGM-79G_GM_Command",
+        "img": "https://static.wikia.nocookie.net/gundam/images/1/11/Rgm-79gm.jpg"
+      },
+      {
+        "name": "RGM-79SP GM Sniper II",
+        "link": "https://gundam.fandom.com/wiki/RGM-79SP_GM_Sniper_II",
+        "img": "https://static.wikia.nocookie.net/gundam/images/0/09/Rgm-79sp.jpg"
+      },
+      {
+        "name": "MS-06FZ Zaku II Kai",
+        "link": "https://gundam.fandom.com/wiki/MS-06FZ_Zaku_II_Kai",
+        "img": "https://static.wikia.nocookie.net/gundam/images/5/5a/Ms-06fz.jpg"
+      },
+      {
+        "name": "MS-14Jg Gelgoog Jäger",
+        "link": "https://gundam.fandom.com/wiki/MS-14Jg_Gelgoog_J%C3%A4ger",
+        "img": "https://static.wikia.nocookie.net/gundam/images/a/a2/MS-14Jg_Gelgoog_Jager.jpg"
+      },
+      {
+        "name": "MS-18E Kämpfer",
+        "link": "https://gundam.fandom.com/wiki/MS-18E_K%C3%A4mpfer",
+        "img": "https://static.wikia.nocookie.net/gundam/images/5/5c/MS-18E%28KAMPFER%29_front.jpg"
+      },
+      {
+        "name": "MSM-03C Hygogg",
+        "link": "https://gundam.fandom.com/wiki/MSM-03C_Hygogg",
+        "img": "https://static.wikia.nocookie.net/gundam/images/2/26/MSM-03C_Hygogg.jpg"
+      },
+      {
+        "name": "MSM-07E Z'Gok-E",
+        "link": "https://gundam.fandom.com/wiki/MSM-07E_Z%27Gok-E",
+        "img": "https://static.wikia.nocookie.net/gundam/images/c/c6/0080MSM-07EandMSM-03C.jpg"
       }
     ],
-    "wiki": "",
+    "wiki": "https://gundam.fandom.com/wiki/Mobile_Suit_Gundam_0080:_War_in_the_Pocket",
     "type": "Series/OVA",
     "episodes": [
       {
-        "name": "",
-        "link": ""
+        "name": "How Many Miles to the Battlefield?",
+        "link": "https://gundam.fandom.com/wiki/How_Many_Miles_to_the_Battlefield%3F"
       },
       {
-        "name": "",
-        "link": ""
+        "name": "Reflections in a Brown Eye",
+        "link": "https://gundam.fandom.com/wiki/Reflections_in_a_Brown_Eye"
+      },
+      {
+        "name": "And at the End of the Rainbow?",
+        "link": "https://gundam.fandom.com/wiki/And_at_the_End_of_the_Rainbow%3F"
+      },
+      {
+        "name": "Over the River and Through the Woods",
+        "link": "https://gundam.fandom.com/wiki/Over_the_River_and_Through_the_Woods"
+      },
+      {
+        "name": "Say it Ain't So, Bernie!",
+        "link": "https://gundam.fandom.com/wiki/Say_it_Ain%27t_So,_Bernie!"
+      },
+      {
+        "name": "War in the Pocket",
+        "link": "https://gundam.fandom.com/wiki/War_in_the_Pocket"
       }
     ],
-    "availability": "",
+    "availability": "Mobile Suit Gundam 0080: War in the Pocket",
     "main": true
   },
   {
@@ -756,44 +807,138 @@
     "nick": "Stardust Memory",
     "year": 83,
     "img": "https://static.wikia.nocookie.net/gundam/images/e/e0/Logo_Mobile_Suit_Gundam_0083_Stardust_Memory.jpg",
-    "synop": "",
+    "synop": "Universal Century 0083: Zeon intelligence has identified a prototype Gundam designed for nuclear attack under development by Anaheim Electronics. A former Zeon ace and a small band of Principality soldiers are dispatched to Earth to capture the Gundam as part of Operation Stardust. When the Zeon successfully make off with the prototype, the Earth Federation assigns the mobile suit carrier Albion to locate and recover the missing unit. When the stolen Gundam fires at the space fortress Konpei Island, the Federation Space Force suffers a catastrophic loss. As the Federation regroups, they learn that the Zeon have captured a space colony, Side 7, ostensibly with the objective of colliding it with the moon. When the colony's course is unexpectedly changed toward Earth, the true objective of Operation Stardust is revealed.\nThe series ends with the creation of the Titans, an elite Zeon-hunting division of the Federal Forces, and the main antagonists in Zeta Gundam. ",
     "characters": [
       {
-        "name": "",
-        "link": "",
-        "desc": ""
+        "name": "Kou Uraki",
+        "link": "https://gundam.fandom.com/wiki/Kou_Uraki",
+        "desc": "Kou Uraki (コウ・ウラキ Kō Uraki?) is the protagonist in Mobile Suit Gundam 0083: Stardust Memory. He is a 19 year-old Federation pilot stationed at the Torrington Base. He primarily pilots the RX-78GP01 Gundam \"Zephyranthes\"."
       },
       {
-        "name": "",
-        "link": "",
-        "desc": ""
+        "name": "Anavel Gato",
+        "link": "https://gundam.fandom.com/wiki/Anavel_Gato",
+        "desc": "Anavel Gato (アナベル・ガトー Anaberu Gatō?) is a character who appears in Mobile Suit Gundam 0083: Stardust Memory. A Zeon ace pilot, he serves as the series' main antagonist. "
+      },
+      {
+        "name": "Cima Garahau",
+        "link": "https://gundam.fandom.com/wiki/Cima_Garahau",
+        "desc": "Cima Garahau (シーマ・ガラハウ Shīma Garahau?) is a character in the Universal Century timeline of the Mobile Suit Gundam series. She is a principal character in the Mobile Suit Gundam 0083: Stardust Memory OVA series."
+      },
+      {
+        "name": "Nina Purpleton",
+        "link": "https://gundam.fandom.com/wiki/Nina_Purpleton",
+        "desc": "Nina Purpleton (ニナ・パープルトン Nina Pāpuruton?) is a character introduced in Mobile Suit Gundam 0083: Stardust Memory."
       }
     ],
     "mobiles": [
       {
-        "name": "",
-        "link": "",
-        "img": ""
+        "name": "RX-78GP01 Gundam \"Zephyranthes\"",
+        "link": "https://gundam.fandom.com/wiki/RX-78GP01_Gundam_%22Zephyranthes%22",
+        "img": "https://static.wikia.nocookie.net/gundam/images/9/9e/ZephyranthesALTColors_-_Front_View.jpg"
       },
       {
-        "name": "",
-        "link": "",
-        "img": ""
+        "name": "RX-78GP01-Fb Gundam \"Zephyranthes\" Full Burnern",
+        "link": "https://gundam.fandom.com/wiki/RX-78GP01-Fb_Gundam_%22Zephyranthes%22_Full_Burnern",
+        "img": "https://static.wikia.nocookie.net/gundam/images/1/19/Rx-78gp01-fb.jpg"
+      },
+      {
+        "name": "RX-78GP02A Gundam \"Physalis\"",
+        "link": "https://gundam.fandom.com/wiki/RX-78GP02A_Gundam_%22Physalis%22",
+        "img": "https://static.wikia.nocookie.net/gundam/images/5/51/Rx-78gp02a.jpg"
+      },
+      {
+        "name": "RX-78GP03 Gundam \"Dendrobium\"",
+        "link": "https://gundam.fandom.com/wiki/RX-78GP03_Gundam_%22Dendrobium%22",
+        "img": "https://static.wikia.nocookie.net/gundam/images/9/98/RX-78GP03%28GUNDAM_GP03_DENDROBIUM%29_front.jpg"
+      },
+      {
+        "name": "RX-78GP03S Gundam \"Stamen\"",
+        "link": "https://gundam.fandom.com/wiki/RX-78GP03S_Gundam_%22Stamen%22",
+        "img": "https://static.wikia.nocookie.net/gundam/images/8/86/Rx-78gp03s.jpg"
+      },
+      {
+        "name": "AGX-04 Gerbera Tetra",
+        "link": "https://gundam.fandom.com/wiki/AGX-04_Gerbera_Tetra",
+        "img": "https://static.wikia.nocookie.net/gundam/images/1/14/Gerbera_tetra_front_color.png"
+      },
+      {
+        "name": "AMX-002 Neue Ziel",
+        "link": "https://gundam.fandom.com/wiki/AMX-002_Neue_Ziel",
+        "img": "https://static.wikia.nocookie.net/gundam/images/4/43/Amx-002.jpg"
+      },
+      {
+        "name": "MA-06 Val Walo",
+        "link": "https://gundam.fandom.com/wiki/MA-06_Val_Walo",
+        "img": "https://static.wikia.nocookie.net/gundam/images/6/6d/0083MA-06ValVaro.jpg"
+      },
+      {
+        "name": "MS-21C Dra-C",
+        "link": "https://gundam.fandom.com/wiki/MS-21C_Dra-C",
+        "img": "https://static.wikia.nocookie.net/gundam/images/0/0b/Dra-c.jpg"
+      },
+      {
+        "name": "YMS-16M Xamel",
+        "link": "https://gundam.fandom.com/wiki/YMS-16M_Xamel",
+        "img": "https://static.wikia.nocookie.net/gundam/images/7/77/YMS-16M_-_Xamel.jpg"
       }
     ],
-    "wiki": "",
+    "wiki": "https://gundam.fandom.com/wiki/Mobile_Suit_Gundam_0083:_Stardust_Memory",
     "type": "Series/OVA",
     "episodes": [
       {
-        "name": "",
-        "link": ""
+        "name": "Gundamjack",
+        "link": "https://gundam.fandom.com/wiki/Gundamjack"
       },
       {
-        "name": "",
-        "link": ""
+        "name": "Endless Pursuit",
+        "link": "https://gundam.fandom.com/wiki/Endless_Pursuit"
+      },
+      {
+        "name": "Into Battle, Albion!",
+        "link": "https://gundam.fandom.com/wiki/Into_Battle,_Albion!"
+      },
+      {
+        "name": "Attack and Retreat on the Burning Sand",
+        "link": "https://gundam.fandom.com/wiki/Attack_and_Retreat_on_the_Burning_Sand"
+      },
+      {
+        "name": "Gundam, to the Sea of Stars",
+        "link": "https://gundam.fandom.com/wiki/Gundam,_to_the_Sea_of_Stars"
+      },
+      {
+        "name": "The Warrior of Von Braun",
+        "link": "https://gundam.fandom.com/wiki/The_Warrior_of_Von_Braun"
+      },
+      {
+        "name": "With Shining Blue Fire",
+        "link": "https://gundam.fandom.com/wiki/With_Shining_Blue_Fire"
+      },
+      {
+        "name": "Conspiracy Sector",
+        "link": "https://gundam.fandom.com/wiki/Conspiracy_Sector"
+      },
+      {
+        "name": "The Nightmare of Solomon",
+        "link": "https://gundam.fandom.com/wiki/The_Nightmare_of_Solomon"
+      },
+      {
+        "name": "Colliding War Zones",
+        "link": "https://gundam.fandom.com/wiki/Colliding_War_Zones"
+      },
+      {
+        "name": "La Vie en Rose ",
+        "link": "https://gundam.fandom.com/wiki/La_Vie_en_Rose_(episode)"
+      },
+      {
+        "name": "Assault on the Point of No Return",
+        "link": "https://gundam.fandom.com/wiki/Assault_on_the_Point_of_No_Return"
+      },
+      {
+        "name": "A Storm Raging Through",
+        "link": "https://gundam.fandom.com/wiki/A_Storm_Raging_Through"
       }
     ],
-    "availability": "",
+    "availability": "Mobile Suit Gundam 0083: Stardust Memory",
     "main": true
   },
   {

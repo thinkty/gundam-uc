@@ -945,45 +945,46 @@
     "title": "Mobile Suit Gundam 0083: The Afterglow of Zeon",
     "nick": "Afterglow of Zeon",
     "year": 83,
-    "img": "https://static.wikia.nocookie.net/gundam/images/7/79/0083_AZ_Logo.png",
-    "synop": "",
+    "img": "https://static.wikia.nocookie.net/gundam/images/1/11/0083_AZ_Logo2.png",
+    "synop": "U.C. 0083 - Three years after the end of the catastrophic One Year War, peace on Earth and the colonies is shattered by the presence of the Delaz Fleet, a rogue Zeon military group loyal to the ideals of the late dictator Gihren Zabi. Delaz Fleet`s ace pilot Anavel Gato, once hailed as \"The Nightmare of Solomon\", infiltrates the Federation`s Torrington base in Australia and steals the nuclear-armed Gundam GP02A \"Physalis\" prototype. Rookie pilot Kou Uraki - with the aid of Anaheim Electronics engineer Nina Purpleton and the crew of the carrier Albion - pilots the Gundam GP01 \"Zephyranthes\" prototype in an attempt to recover the stolen Gundam unit and prevent another war from breaking out.",
     "characters": [
       {
-        "name": "",
-        "link": "",
-        "desc": ""
+        "name": "Kou Uraki",
+        "link": "https://gundam.fandom.com/wiki/Kou_Uraki",
+        "desc": "Kou Uraki (コウ・ウラキ Kō Uraki?) is the protagonist in Mobile Suit Gundam 0083: Stardust Memory. He is a 19 year-old Federation pilot stationed at the Torrington Base. He primarily pilots the RX-78GP01 Gundam \"Zephyranthes\"."
       },
       {
-        "name": "",
-        "link": "",
-        "desc": ""
+        "name": "Anavel Gato",
+        "link": "https://gundam.fandom.com/wiki/Anavel_Gato",
+        "desc": "Anavel Gato (アナベル・ガトー Anaberu Gatō?) is a character who appears in Mobile Suit Gundam 0083: Stardust Memory. A Zeon ace pilot, he serves as the series' main antagonist. "
+      },
+      {
+        "name": "Nina Purpleton",
+        "link": "https://gundam.fandom.com/wiki/Nina_Purpleton",
+        "desc": "Nina Purpleton (ニナ・パープルトン Nina Pāpuruton?) is a character introduced in Mobile Suit Gundam 0083: Stardust Memory."
       }
     ],
     "mobiles": [
       {
-        "name": "",
-        "link": "",
-        "img": ""
+        "name": "RX-78GP01 Gundam \"Zephyranthes\"",
+        "link": "https://gundam.fandom.com/wiki/RX-78GP01_Gundam_%22Zephyranthes%22",
+        "img": "https://static.wikia.nocookie.net/gundam/images/9/9e/ZephyranthesALTColors_-_Front_View.jpg"
       },
       {
-        "name": "",
-        "link": "",
-        "img": ""
+        "name": "RX-78GP02A Gundam \"Physalis\"",
+        "link": "https://gundam.fandom.com/wiki/RX-78GP02A_Gundam_%22Physalis%22",
+        "img": "https://static.wikia.nocookie.net/gundam/images/5/51/Rx-78gp02a.jpg"
       }
     ],
-    "wiki": "",
+    "wiki": "https://gundam.fandom.com/wiki/Mobile_Suit_Gundam_0083:_The_Afterglow_of_Zeon",
     "type": "Movie",
     "episodes": [
       {
-        "name": "",
-        "link": ""
-      },
-      {
-        "name": "",
-        "link": ""
+        "name": "Mobile Suit Gundam 0083: The Afterglow of Zeon",
+        "link": "https://gundam.fandom.com/wiki/Mobile_Suit_Gundam_0083:_The_Afterglow_of_Zeon"
       }
     ],
-    "availability": "",
+    "availability": "Mobile Suit Gundam 0083: The Afterglow of Zeon",
     "main": false
   },
   {

@@ -992,44 +992,266 @@
     "nick": "Zeta Gundam",
     "year": 87,
     "img": "https://static.wikia.nocookie.net/gundam/images/f/f9/Logo_Mobile_Suit_Zeta_Gundam.jpg",
-    "synop": "",
+    "synop": "It is U.C.0087, seven years after the end of the One Year War. After the events of Operation Stardust, the Earth Federation establishes an elite counter-insurgency division called the Titans to hunt down the remaining pockets of Zeon remnants. The Titans become overzealous in their mission, start resorting to brutal methods to achieve their goals, and become nothing more than ruthless tyrants with an ambition to rule the Earth Sphere. Two anti-Titans resistance groups, the Anti-Earth Union Group (AEUG) and their earth-bound counterparts Karaba (led by Hayato Kobayashi), form to unite the various existing small forces in the struggle against Titans. Their members consist of renegade soldiers of the Earth Federal forces, former soldiers of Principality of Zeon, and militia from space colonies. Most notable is Bright Noa, who returns as captain of the assault cruiser Argama, the flagship of AEUG space fleet, and Quattro Bajeena, who is really the legendary ace pilot Char Aznable, the \"Red Comet\".",
     "characters": [
       {
-        "name": "",
-        "link": "",
-        "desc": ""
+        "name": "Kamille Bidan",
+        "link": "https://gundam.fandom.com/wiki/Kamille_Bidan",
+        "desc": "Kamille Bidan (カミーユ・ビダン Kamīyu Bidan?) is the main protagonist of the Mobile Suit Zeta Gundam television series and a supporting character in Mobile Suit Gundam ZZ. He is the pilot of the MSZ-006 Zeta Gundam. "
       },
       {
-        "name": "",
-        "link": "",
-        "desc": ""
+        "name": "Quattro Bajeena",
+        "link": "https://gundam.fandom.com/wiki/Char_Aznable",
+        "desc": "N/A"
+      },
+      {
+        "name": "Amuro Ray",
+        "link": "https://gundam.fandom.com/wiki/Amuro_Ray",
+        "desc": "N/A"
+      },
+      {
+        "name": "Haman Karn",
+        "link": "https://gundam.fandom.com/wiki/Haman_Karn",
+        "desc": "N/A"
       }
     ],
     "mobiles": [
       {
-        "name": "",
-        "link": "",
-        "img": ""
+        "name": "MSZ-006 Zeta Gundam",
+        "link": "https://gundam.fandom.com/wiki/MSZ-006_Zeta_Gundam",
+        "img": "https://static.wikia.nocookie.net/gundam/images/7/77/MSZ-006_-_Zeta_Gundam_-_Front_View.jpg"
       },
       {
-        "name": "",
-        "link": "",
-        "img": ""
+        "name": "MSN-00100 Hyaku Shiki",
+        "link": "https://gundam.fandom.com/wiki/MSN-00100_Hyaku_Shiki",
+        "img": "https://static.wikia.nocookie.net/gundam/images/8/8c/Msn-00100.jpg"
+      },
+      {
+        "name": "RMS-099 Rick Dias",
+        "link": "https://gundam.fandom.com/wiki/RMS-099_Rick_Dias",
+        "img": "https://static.wikia.nocookie.net/gundam/images/0/03/Rms-099-red.jpg"
+      },
+      {
+        "name": "RX-178 Gundam Mk-II",
+        "link": "https://gundam.fandom.com/wiki/RX-178_Gundam_Mk-II",
+        "img": "https://static.wikia.nocookie.net/gundam/images/7/77/RX-178_-_Gundam_Mk-II_%28AEUG_Colors%29_-_Front_View.jpg"
+      },
+      {
+        "name": "RX-178+FXA-05D Super Gundam",
+        "link": "https://gundam.fandom.com/wiki/RX-178%2BFXA-05D_Super_Gundam",
+        "img": "https://static.wikia.nocookie.net/gundam/images/1/1b/Rx-178-fxa-05d.jpg"
+      },
+      {
+        "name": "MRX-009 Psycho Gundam",
+        "link": "https://gundam.fandom.com/wiki/MRX-009_Psycho_Gundam",
+        "img": "https://static.wikia.nocookie.net/gundam/images/c/cb/Mrx-009.jpg"
       }
     ],
-    "wiki": "",
+    "wiki": "https://gundam.fandom.com/wiki/Mobile_Suit_Zeta_Gundam",
     "type": "Series/OVA",
     "episodes": [
       {
-        "name": "",
-        "link": ""
+        "name": "The Black Gundam",
+        "link": "https://gundam.fandom.com/wiki/The_Black_Gundam"
       },
       {
-        "name": "",
-        "link": ""
+        "name": "Departure",
+        "link": "https://gundam.fandom.com/wiki/Departure"
+      },
+      {
+        "name": "Inside the Capsule",
+        "link": "https://gundam.fandom.com/wiki/Inside_the_Capsule"
+      },
+      {
+        "name": "Emma's Decision",
+        "link": "https://gundam.fandom.com/wiki/Emma%27s_Decision"
+      },
+      {
+        "name": "Father and Son",
+        "link": "https://gundam.fandom.com/wiki/Father_and_Son"
+      },
+      {
+        "name": "To Earth",
+        "link": "https://gundam.fandom.com/wiki/To_Earth"
+      },
+      {
+        "name": "Escape from Side 1",
+        "link": "https://gundam.fandom.com/wiki/Escape_from_Side_1"
+      },
+      {
+        "name": "The Dark Side of the Moon",
+        "link": "https://gundam.fandom.com/wiki/The_Dark_Side_of_the_Moon"
+      },
+      {
+        "name": "A New Bond",
+        "link": "https://gundam.fandom.com/wiki/A_New_Bond"
+      },
+      {
+        "name": "Reunion",
+        "link": "https://gundam.fandom.com/wiki/Reunion"
+      },
+      {
+        "name": "Entering the Atmosphere",
+        "link": "https://gundam.fandom.com/wiki/Entering_the_Atmosphere"
+      },
+      {
+        "name": "The Winds of Jaburo",
+        "link": "https://gundam.fandom.com/wiki/The_Winds_of_Jaburo"
+      },
+      {
+        "name": "Shuttle Launch",
+        "link": "https://gundam.fandom.com/wiki/Shuttle_Launch"
+      },
+      {
+        "name": "Amuro Flies Again",
+        "link": "https://gundam.fandom.com/wiki/Amuro_Flies_Again"
+      },
+      {
+        "name": "Katz's Sortie",
+        "link": "https://gundam.fandom.com/wiki/Katz%27s_Sortie"
+      },
+      {
+        "name": "Through the Haze of Darkness",
+        "link": "https://gundam.fandom.com/wiki/Through_the_Haze_of_Darkness"
+      },
+      {
+        "name": "Hong Kong City",
+        "link": "https://gundam.fandom.com/wiki/Hong_Kong_City"
+      },
+      {
+        "name": "Mirai Captured",
+        "link": "https://gundam.fandom.com/wiki/Mirai_Captured"
+      },
+      {
+        "name": "Cinderella Four",
+        "link": "https://gundam.fandom.com/wiki/Cinderella_Four"
+      },
+      {
+        "name": "The Heated Escape",
+        "link": "https://gundam.fandom.com/wiki/The_Heated_Escape"
+      },
+      {
+        "name": "A Sign of Zeta",
+        "link": "https://gundam.fandom.com/wiki/A_Sign_of_Zeta"
+      },
+      {
+        "name": "The Eyes of Scirocco",
+        "link": "https://gundam.fandom.com/wiki/The_Eyes_of_Scirocco"
+      },
+      {
+        "name": "Moon Attack",
+        "link": "https://gundam.fandom.com/wiki/Moon_Attack"
+      },
+      {
+        "name": "Counterattack",
+        "link": "https://gundam.fandom.com/wiki/Counterattack"
+      },
+      {
+        "name": "Colony Drop",
+        "link": "https://gundam.fandom.com/wiki/Colony_Drop"
+      },
+      {
+        "name": "The Ghost of Zeon",
+        "link": "https://gundam.fandom.com/wiki/The_Ghost_of_Zeon"
+      },
+      {
+        "name": "Rendezvous With Char",
+        "link": "https://gundam.fandom.com/wiki/Rendezvous_With_Char"
+      },
+      {
+        "name": "The Jupitris Infiltration",
+        "link": "https://gundam.fandom.com/wiki/The_Jupitris_Infiltration"
+      },
+      {
+        "name": "Crisis at Side 2",
+        "link": "https://gundam.fandom.com/wiki/Crisis_at_Side_2"
+      },
+      {
+        "name": "Jerid's Desperate Attack",
+        "link": "https://gundam.fandom.com/wiki/Jerid%27s_Desperate_Attack"
+      },
+      {
+        "name": "Half Moon Love",
+        "link": "https://gundam.fandom.com/wiki/Half_Moon_Love"
+      },
+      {
+        "name": "Unidentified Mobile Suits",
+        "link": "https://gundam.fandom.com/wiki/Unidentified_Mobile_Suits"
+      },
+      {
+        "name": "The Messenger from Axis",
+        "link": "https://gundam.fandom.com/wiki/The_Messenger_from_Axis"
+      },
+      {
+        "name": "The Call of Darkness",
+        "link": "https://gundam.fandom.com/wiki/The_Call_of_Darkness"
+      },
+      {
+        "name": "Storm Over Kilimanjaro",
+        "link": "https://gundam.fandom.com/wiki/Storm_Over_Kilimanjaro"
+      },
+      {
+        "name": "Forever Four",
+        "link": "https://gundam.fandom.com/wiki/Forever_Four"
+      },
+      {
+        "name": "The Day of Dakar",
+        "link": "https://gundam.fandom.com/wiki/The_Day_of_Dakar"
+      },
+      {
+        "name": "Reccoa's Shadow",
+        "link": "https://gundam.fandom.com/wiki/Reccoa%27s_Shadow"
+      },
+      {
+        "name": "By The Lake",
+        "link": "https://gundam.fandom.com/wiki/By_The_Lake"
+      },
+      {
+        "name": "Activation of Gryps",
+        "link": "https://gundam.fandom.com/wiki/Activation_of_Gryps"
+      },
+      {
+        "name": "Awakening",
+        "link": "https://gundam.fandom.com/wiki/Awakening"
+      },
+      {
+        "name": "Goodbye, Rosammy",
+        "link": "https://gundam.fandom.com/wiki/Goodbye,_Rosammy"
+      },
+      {
+        "name": "Haman's Victory",
+        "link": "https://gundam.fandom.com/wiki/Haman%27s_Victory"
+      },
+      {
+        "name": "The Gate of Zedan",
+        "link": "https://gundam.fandom.com/wiki/The_Gate_of_Zedan"
+      },
+      {
+        "name": "Coming From the Heavens",
+        "link": "https://gundam.fandom.com/wiki/Coming_From_the_Heavens"
+      },
+      {
+        "name": "Scirocco Rises",
+        "link": "https://gundam.fandom.com/wiki/Scirocco_Rises"
+      },
+      {
+        "name": "A Descent into the Maelstrom",
+        "link": "https://gundam.fandom.com/wiki/A_Descent_into_the_Maelstrom"
+      },
+      {
+        "name": "The Mirror of Rosamia",
+        "link": "https://gundam.fandom.com/wiki/The_Mirror_of_Rosamia"
+      },
+      {
+        "name": "Casualties of War",
+        "link": "https://gundam.fandom.com/wiki/Casualties_of_War"
+      },
+      {
+        "name": "Riders in the Skies",
+        "link": "https://gundam.fandom.com/wiki/Riders_in_the_Skies"
       }
     ],
-    "availability": "",
+    "availability": "Mobile Suit Zeta Gundam",
     "main": true
   },
   {

@@ -1259,44 +1259,229 @@
     "nick": "Gundam ZZ",
     "year": 88,
     "img": "https://static.wikia.nocookie.net/gundam/images/3/31/Logo_Mobile_Suit_Gundam_ZZ.jpg",
-    "synop": "",
+    "synop": "As the continuation of Zeta Gundam, this series once again follows the story of the Anti Earth Union Group (AEUG) battleship Argama after Kamille defeats Paptimus Scirocco. To fight off the Axis Zeon, now called the Neo Zeon, Captain Bright Noa recruits a group of teenage junk collectors led by the loudmouthed but powerful Newtype Judau Ashta to pilot the Argama's mobile suits. Now sporting a line up of the behemoth MSZ-010 Double Zeta Gundam and the returning MSZ-006 Zeta Gundam, RX-178 Gundam Mk-II and Gundam-like MSN-00100 Hyaku Shiki, the group is nicknamed the Gundam Team. As such, this became the first of a number of Gundam series where a team of Gundam mobile suits fight alongside each other regularly. The climax takes place at Side 3 in the Battle of Axis.",
     "characters": [
       {
-        "name": "",
-        "link": "",
-        "desc": ""
-      },
-      {
-        "name": "",
-        "link": "",
-        "desc": ""
+        "name": "Judau Ashta",
+        "link": "https://gundam.fandom.com/wiki/Judau_Ashta",
+        "desc": "Judau Ashta (ジュドー・アーシタ Judō Āshita?) is the 14-year old protagonist in Mobile Suit Gundam ZZ. He later returns as a supporting character in Mobile Suit Crossbone Gundam: Skull Heart and Mobile Suit Victory Gundam Outside Story under the alias Grey Stoke (グレイ・ストーク Gurei Sutōku). "
       }
     ],
     "mobiles": [
       {
-        "name": "",
-        "link": "",
-        "img": ""
+        "name": "AMX-004-2 Elpeo's Qubeley",
+        "link": "https://gundam.fandom.com/wiki/AMX-004_Qubeley_Mk-II",
+        "img": "https://static.wikia.nocookie.net/gundam/images/9/99/Amx-004-2.jpg"
       },
       {
-        "name": "",
-        "link": "",
-        "img": ""
+        "name": "FA-010S Full Armor ZZ Gundam",
+        "link": "https://gundam.fandom.com/wiki/FA-010S_Full_Armor_ZZ_Gundam",
+        "img": "https://static.wikia.nocookie.net/gundam/images/8/8a/Fa-010s.jpg"
+      },
+      {
+        "name": "MSZ-010 ΖΖ Gundam",
+        "link": "https://gundam.fandom.com/wiki/MSZ-010_%CE%96%CE%96_Gundam",
+        "img": "https://static.wikia.nocookie.net/gundam/images/e/e0/Msz-010.jpg"
+      },
+      {
+        "name": "AMX-011 Zaku III",
+        "link": "https://gundam.fandom.com/wiki/AMX-011_Zaku_III",
+        "img": "https://static.wikia.nocookie.net/gundam/images/2/2a/Amx-011.jpg"
       }
     ],
-    "wiki": "",
+    "wiki": "https://gundam.fandom.com/wiki/Mobile_Suit_Gundam_ZZ",
     "type": "Series/OVA",
     "episodes": [
       {
-        "name": "",
-        "link": ""
+        "name": "Prelude of ZZ",
+        "link": "https://gundam.fandom.com/wiki/Prelude_of_ZZ"
       },
       {
-        "name": "",
-        "link": ""
+        "name": "The Boy from Shangri-la",
+        "link": "https://gundam.fandom.com/wiki/The_Boy_from_Shangri-la"
+      },
+      {
+        "name": "The Knight of the Endra",
+        "link": "https://gundam.fandom.com/wiki/The_Knight_of_the_Endra"
+      },
+      {
+        "name": "Hot-Blooded Mashymre",
+        "link": "https://gundam.fandom.com/wiki/Hot-Blooded_Mashymre"
+      },
+      {
+        "name": "Judau's Decision",
+        "link": "https://gundam.fandom.com/wiki/Judau%27s_Decision"
+      },
+      {
+        "name": "Menace of the Zssa",
+        "link": "https://gundam.fandom.com/wiki/Menace_of_the_Zssa"
+      },
+      {
+        "name": "Gaza Storm",
+        "link": "https://gundam.fandom.com/wiki/Gaza_Storm"
+      },
+      {
+        "name": "The Funeral Bell Tolls Twice",
+        "link": "https://gundam.fandom.com/wiki/The_Funeral_Bell_Tolls_Twice"
+      },
+      {
+        "name": "Judau in Space",
+        "link": "https://gundam.fandom.com/wiki/Judau_in_Space"
+      },
+      {
+        "name": "Sayonara, Fa",
+        "link": "https://gundam.fandom.com/wiki/Sayonara,_Fa"
+      },
+      {
+        "name": "Activate! Double Zeta",
+        "link": "https://gundam.fandom.com/wiki/Activate!_Double_Zeta"
+      },
+      {
+        "name": "Leina Vanishes",
+        "link": "https://gundam.fandom.com/wiki/Leina_Vanishes"
+      },
+      {
+        "name": "Little Sister!",
+        "link": "https://gundam.fandom.com/wiki/Little_Sister!"
+      },
+      {
+        "name": "The Phantom Colony, Part 1",
+        "link": "https://gundam.fandom.com/wiki/The_Phantom_Colony,_Part_1"
+      },
+      {
+        "name": "The Phantom Colony, Part 2",
+        "link": "https://gundam.fandom.com/wiki/The_Phantom_Colony,_Part_2"
+      },
+      {
+        "name": "Melee Aboard the Argama",
+        "link": "https://gundam.fandom.com/wiki/Melee_Aboard_the_Argama"
+      },
+      {
+        "name": "Retrieve the Core Top!",
+        "link": "https://gundam.fandom.com/wiki/Retrieve_the_Core_Top!"
+      },
+      {
+        "name": "Haman's Black Shadow",
+        "link": "https://gundam.fandom.com/wiki/Haman%27s_Black_Shadow"
+      },
+      {
+        "name": "Ple and Axis",
+        "link": "https://gundam.fandom.com/wiki/Ple_and_Axis"
+      },
+      {
+        "name": "Cecilia the Crybaby, Part 1",
+        "link": "https://gundam.fandom.com/wiki/Cecilia_the_Crybaby,_Part_1"
+      },
+      {
+        "name": "Cecilia the Crybaby, Part 2",
+        "link": "https://gundam.fandom.com/wiki/Cecilia_the_Crybaby,_Part_2"
+      },
+      {
+        "name": "Judau, Into Battle!",
+        "link": "https://gundam.fandom.com/wiki/Judau,_Into_Battle!"
+      },
+      {
+        "name": "The Burning Earth",
+        "link": "https://gundam.fandom.com/wiki/The_Burning_Earth"
+      },
+      {
+        "name": "Sibling Love Blooming in the South Seas",
+        "link": "https://gundam.fandom.com/wiki/Sibling_Love_Blooming_in_the_South_Seas"
+      },
+      {
+        "name": "The Face of Rommel",
+        "link": "https://gundam.fandom.com/wiki/The_Face_of_Rommel"
+      },
+      {
+        "name": "Masai's Heart",
+        "link": "https://gundam.fandom.com/wiki/Masai%27s_Heart"
+      },
+      {
+        "name": "Leina's Blood, Part 1",
+        "link": "https://gundam.fandom.com/wiki/Leina%27s_Blood,_Part_1"
+      },
+      {
+        "name": "Leina's Blood, Part 2",
+        "link": "https://gundam.fandom.com/wiki/Leina%27s_Blood,_Part_2"
+      },
+      {
+        "name": "Roux's Run",
+        "link": "https://gundam.fandom.com/wiki/Roux%27s_Run"
+      },
+      {
+        "name": "Blue Unit, Part 1",
+        "link": "https://gundam.fandom.com/wiki/Blue_Unit,_Part_1"
+      },
+      {
+        "name": "Blue Unit, Part 2",
+        "link": "https://gundam.fandom.com/wiki/Blue_Unit,_Part_2"
+      },
+      {
+        "name": "Crossing the Salt Lake",
+        "link": "https://gundam.fandom.com/wiki/Crossing_the_Salt_Lake"
+      },
+      {
+        "name": "Dublin Afternoon",
+        "link": "https://gundam.fandom.com/wiki/Dublin_Afternoon"
+      },
+      {
+        "name": "Kamille's Voice",
+        "link": "https://gundam.fandom.com/wiki/Kamille%27s_Voice"
+      },
+      {
+        "name": "Falling Sky",
+        "link": "https://gundam.fandom.com/wiki/Falling_Sky"
+      },
+      {
+        "name": "Prisoner of Gravity: Ple Two",
+        "link": "https://gundam.fandom.com/wiki/Prisoner_of_Gravity:_Ple_Two"
+      },
+      {
+        "name": "Nahel Argama",
+        "link": "https://gundam.fandom.com/wiki/Nahel_Argama"
+      },
+      {
+        "name": "The Impregnable Jamru Fin",
+        "link": "https://gundam.fandom.com/wiki/The_Impregnable_Jamru_Fin"
+      },
+      {
+        "name": "The Second Coming of Sarasa",
+        "link": "https://gundam.fandom.com/wiki/The_Second_Coming_of_Sarasa"
+      },
+      {
+        "name": "Tigerbaum Dream",
+        "link": "https://gundam.fandom.com/wiki/Tigerbaum_Dream"
+      },
+      {
+        "name": "Rasara's Life",
+        "link": "https://gundam.fandom.com/wiki/Rasara%27s_Life"
+      },
+      {
+        "name": "The Girl from Core 3, Part 1",
+        "link": "https://gundam.fandom.com/wiki/The_Girl_from_Core_3,_Part_1"
+      },
+      {
+        "name": "The Girl from Core 3, Part 2",
+        "link": "https://gundam.fandom.com/wiki/The_Girl_from_Core_3,_Part_2"
+      },
+      {
+        "name": "Emary's Glory",
+        "link": "https://gundam.fandom.com/wiki/Emary%27s_Glory"
+      },
+      {
+        "name": "The Battle of Axis",
+        "link": "https://gundam.fandom.com/wiki/The_Battle_of_Axis"
+      },
+      {
+        "name": "Vibration",
+        "link": "https://gundam.fandom.com/wiki/Vibration"
+      },
+      {
+        "name": "Warrior, Once More...",
+        "link": "https://gundam.fandom.com/wiki/Warrior,_Once_More..."
       }
     ],
-    "availability": "",
+    "availability": "Mobile Suit Gundam ZZ",
     "main": true
   },
   {
